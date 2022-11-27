@@ -1,0 +1,524 @@
+{
+    "version": "0.4",
+    "title": "Portfolio with Filter",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4bc38a68",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 300,
+                    "sizes": []
+                },
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "589a697b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7a62dca2",
+                            "settings": {
+                                "html_tag": "h1",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "post-title",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1fb16cec",
+            "settings": {
+                "background_color": "#F8F8F8",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "21883c66",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "23df731",
+                            "settings": {
+                                "pemium_gallery_even_img_height": {
+                                    "unit": "px",
+                                    "size": 347,
+                                    "sizes": []
+                                },
+                                "premium_gallery_load_more_text": "Load More",
+                                "premium_gallery_first_cat_label": "All",
+                                "premium_gallery_cats_content": [
+                                    {
+                                        "premium_gallery_img_cat": "Category 1",
+                                        "_id": "05ddc42",
+                                        "premium_gallery_img_cat_rotation": ""
+                                    },
+                                    {
+                                        "premium_gallery_img_cat": "Category 2",
+                                        "_id": "0336813",
+                                        "premium_gallery_img_cat_rotation": ""
+                                    },
+                                    {
+                                        "premium_gallery_img_cat": "Category 3",
+                                        "premium_gallery_img_cat_rotation": "",
+                                        "_id": "1d7f01d"
+                                    }
+                                ],
+                                "premium_gallery_img_content": [
+                                    {
+                                        "premium_gallery_img_name": "Mattis Fermentum Magna Euismod",
+                                        "premium_gallery_img_category": "Category 1",
+                                        "_id": "3aaaa87",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/multiple-vintage-cameras-28SKZAB.jpg",
+                                            "id": 651
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": ""
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Consectetur Cursus Lorem",
+                                        "premium_gallery_img_category": "Category 2, Category 3",
+                                        "_id": "611b04b",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/disposable-coffee-cups-CVJLT2X.jpg",
+                                            "id": 646
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": ""
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Pharetra Inceptos Dolor Commodo Etiam",
+                                        "premium_gallery_img_category": "Category 3",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/red-laundry-clips-P4Q8YGT.jpg",
+                                            "id": 652
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": "",
+                                        "_id": "9e4ab9a"
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Ridiculus Inceptos Fermentum Sit",
+                                        "premium_gallery_img_category": "Category 2",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/vhs-cassette-disassembled-MTJQL4F.jpg",
+                                            "id": 653
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": "",
+                                        "_id": "7fb7159"
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Nibh Parturient",
+                                        "premium_gallery_img_category": "Category 2",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/abstract-pastel-tone-header-origami-papercraft-29SLAVY.jpg",
+                                            "id": 643
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": "",
+                                        "_id": "224b6b7"
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Amet Elit Fermentum",
+                                        "premium_gallery_img_category": "Category 1",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/modern-design-of-lounge-PBJQVAP.jpg",
+                                            "id": 649
+                                        },
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_mobile": {
+                                            "unit": "px",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_video": "",
+                                        "premium_gallery_video_type": "youtube",
+                                        "premium_gallery_video_url": "",
+                                        "premium_gallery_video_self": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "premium_gallery_video_self_url": "",
+                                        "premium_gallery_video_controls": "true",
+                                        "premium_gallery_video_mute": "",
+                                        "premium_gallery_img_desc": "",
+                                        "premium_gallery_img_link_type": "url",
+                                        "premium_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "premium_gallery_img_existing": "",
+                                        "premium_gallery_link_whole": "",
+                                        "premium_gallery_lightbox_whole": "",
+                                        "_id": "a0507d9"
+                                    }
+                                ],
+                                "premium_gallery_img_style": "style1",
+                                "premium_gallery_img_effect": "zoomout",
+                                "premium_gallery_lightbox_type": "yes",
+                                "premium_gallery_icons_style_overlay": "rgba(0, 0, 0, 0.83)",
+                                "hover_css_filters_css_filter": "custom",
+                                "premium_gallery_title_color": "#F8F8F8",
+                                "premium_gallery_title_typo_typography": "custom",
+                                "premium_gallery_title_typo_font_family": "Playfair Display",
+                                "premium_gallery_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "premium_gallery_title_typo_font_weight": "800",
+                                "premium_gallery_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3,
+                                    "sizes": []
+                                },
+                                "premium_gallery_content_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "premium_gallery_content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "40",
+                                    "bottom": "0",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "premium_gallery_style1_icons_position": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "premium_gallery_icons_style_color": "#333333",
+                                "premium_gallery_icons_style_background": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-img-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,827 @@
+{
+    "version": "0.4",
+    "title": "Portfolio",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "7e24aa7e",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/hero-banner.jpg",
+                    "id": 490
+                },
+                "background_position": "top center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.9,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "48bf256a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3580aa93",
+                            "settings": {
+                                "title": "Portfolio",
+                                "header_size": "h3",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "56ad7313",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4d593c96",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "409becd4",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "40",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3cb85303",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7ea814b5",
+                                            "settings": {
+                                                "first_text": "Projects & ",
+                                                "second_text": "Study Case  ",
+                                                "heading_html_tag": "h4",
+                                                "first_text_color": "#FFFFFF",
+                                                "first_typography_typography": "custom",
+                                                "first_typography_font_family": "Poppins",
+                                                "first_typography_font_weight": "600",
+                                                "first_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "second_text_color": "#FFC31D",
+                                                "second_typography_typography": "custom",
+                                                "second_typography_font_family": "Poppins",
+                                                "second_typography_font_weight": "600",
+                                                "second_typography_font_style": "italic",
+                                                "second_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "first_typography_typography": "globals\/typography?id=primary",
+                                                    "second_typography_typography": "",
+                                                    "second_text_color": "globals\/colors?id=secondary",
+                                                    "first_text_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-dual-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "171d509",
+                                            "settings": {
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=text",
+                                                    "typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "editor": "<p>A Latest Creative Works In Design And Web you can see study case<\/p>"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "17fb15a8",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "36d4510b",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "716824f6",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2324a62e",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-6.jpg",
+                                                    "id": 489
+                                                },
+                                                "eihe_title": "Project one",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "ebcd758",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "329c5d96",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3210d14a",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-5.jpg",
+                                                    "id": 488
+                                                },
+                                                "eihe_title": "Project two",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "15756e6b",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "4c13aad5",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "75bb2742",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "64342c87",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-2.jpg",
+                                                    "id": 485
+                                                },
+                                                "eihe_title": "Project three",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7a6bee9c",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "cacc0e3",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7e20c39c",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-4.jpg",
+                                                    "id": 487
+                                                },
+                                                "eihe_title": "Project four",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5a327b2d",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "325edd35",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5373ea24",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "acd43aa",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-1.jpg",
+                                                    "id": 484
+                                                },
+                                                "eihe_title": "Project five",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "65a4ffba",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7500e025",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "43cef7b8",
+                                            "settings": {
+                                                "eihe_effect": "eihe-shutter-in-out-diag-1",
+                                                "eihe_image": {
+                                                    "url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-7.jpg",
+                                                    "id": 483
+                                                },
+                                                "eihe_title": "Project six",
+                                                "eihe_tag": "h5",
+                                                "eihe_description": "Description",
+                                                "eihe_link": {
+                                                    "url": "#",
+                                                    "is_external": false,
+                                                    "nofollow": false,
+                                                    "custom_attributes": ""
+                                                },
+                                                "eihe_title_typography_typography": "custom",
+                                                "eihe_title_typography_font_family": "Poppins",
+                                                "eihe_title_typography_font_weight": "600",
+                                                "eihe_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eihe_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "eihe_title_typography_font_size": {
+                                                    "unit": "rem",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "10",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "eihe_thumbnail_size": "large"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "e_image_hover_effects",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "14ad44e0",
+                                            "settings": {
+                                                "text": "View study case",
+                                                "selected_icon": {
+                                                    "value": "fas fa-bookmark",
+                                                    "library": "fa-solid"
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=secondary",
+                                                    "border_color": "globals\/colors?id=secondary"
+                                                },
+                                                "align": "justify",
+                                                "hover_animation": "buzz",
+                                                "_element_width": "auto",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

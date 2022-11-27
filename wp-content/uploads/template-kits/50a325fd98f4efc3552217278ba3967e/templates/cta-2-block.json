@@ -1,0 +1,189 @@
+{
+    "version": "0.4",
+    "title": "CTA 2 &#8211; Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "66552f42",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#FFF1F2",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "30",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_image": {
+                    "url": "https:\/\/elkits4.bolvo.com\/gazek\/wp-content\/uploads\/sites\/18\/2020\/06\/dotted-pattern-2.png",
+                    "id": 2560
+                },
+                "background_position": "top left",
+                "background_repeat": "no-repeat",
+                "background_size": "auto"
+            },
+            "elements": [
+                {
+                    "id": "7d8b7627",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "700e2292",
+                            "settings": {
+                                "title": "Innovation Brings Life to Our Projects",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "typography_font_weight": "700"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "8788417",
+                            "settings": {
+                                "editor": "<p>Scribentur varet per cu dicat copiosae reprimique teim laborey fabulas scriptorem<\/p>",
+                                "align": "center",
+                                "text_color": "#222222",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Work Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "300"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b2a3faa",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2db0726f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "302ee020",
+                                            "settings": {
+                                                "text": "Discuss Project",
+                                                "align": "right",
+                                                "border_border": "solid",
+                                                "border_color": "#FC4C59",
+                                                "align_mobile": "center",
+                                                "hover_color": "#FC4C59",
+                                                "button_background_hover_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7cd2ad2f",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4d29af8d",
+                                            "settings": {
+                                                "text": "Subscribe",
+                                                "align": "left",
+                                                "button_text_color": "#32297B",
+                                                "background_color": "#FFFFFF",
+                                                "hover_color": "#FFFFFF",
+                                                "button_background_hover_color": "#FC4C59",
+                                                "button_hover_border_color": "#FC4C59",
+                                                "border_border": "solid",
+                                                "border_color": "#E8E0F5",
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "51a13dda",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/elkits4.bolvo.com\/gazek\/wp-content\/uploads\/sites\/18\/2020\/06\/icon-3.png",
+                                                    "id": 2562
+                                                },
+                                                "align": "center",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-35",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "250",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

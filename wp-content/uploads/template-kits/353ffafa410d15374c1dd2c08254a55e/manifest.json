@@ -1,0 +1,1984 @@
+{
+    "manifest_version": "1.0.10",
+    "title": "FabPhoto - Photography and Portfolio Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Stats Block",
+            "screenshot": "screenshots\/stats-block.png",
+            "source": "templates\/stats-block.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/stats-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery 2",
+            "screenshot": "screenshots\/gallery-2.jpg",
+            "source": "templates\/gallery-2.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/gallery-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Photo Single",
+            "screenshot": "screenshots\/photo-single.jpg",
+            "source": "templates\/photo-single.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/photo-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/intothedesign.com\/kits\/kit-5\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "newly-wed-couple-on-the-church-steps-T7DLWSZ.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/newly-wed-couple-on-the-church-steps-T7DLWSZ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/stats-block.json",
+                    "name": "Stats Block"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 506057,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T7DLWSZ"
+        },
+        {
+            "filename": "tamara-bellis-HY1fq4ZtLTE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-HY1fq4ZtLTE-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 368280,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/HY1fq4ZtLTE"
+        },
+        {
+            "filename": "jason-briscoe-Pn0XP2Klbcw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/jason-briscoe-Pn0XP2Klbcw-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 497291,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Pn0XP2Klbcw"
+        },
+        {
+            "filename": "newlywed-african-descent-couple-wedding-P3CGHZ2.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/newlywed-african-descent-couple-wedding-P3CGHZ2-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 437522,
+            "dimensions": [
+                1200,
+                859
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3CGHZ2"
+        },
+        {
+            "filename": "wedding-PSDXXY9.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/wedding-PSDXXY9-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 316306,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSDXXY9"
+        },
+        {
+            "filename": "alvin-mahmudov-aRZiiB-NIWE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/alvin-mahmudov-aRZiiB-NIWE-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 436150,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/aRZiiB-NIWE"
+        },
+        {
+            "filename": "tamara-bellis-mNZ-GvOQUUY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-mNZ-GvOQUUY-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 505586,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mNZ-GvOQUUY"
+        },
+        {
+            "filename": "wedding-couple-together-P2UBP29.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/wedding-couple-together-P2UBP29-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 388261,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P2UBP29"
+        },
+        {
+            "filename": "ann-KzamVRUeL4I-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/ann-KzamVRUeL4I-unsplash-600x798.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 340233,
+            "dimensions": [
+                902,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/KzamVRUeL4I"
+        },
+        {
+            "filename": "fabian-gieske-yobw-nedZ2s-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/fabian-gieske-yobw-nedZ2s-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148724,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yobw-nedZ2s"
+        },
+        {
+            "filename": "family-celebrating-easter-2EU4DTQ.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/family-celebrating-easter-2EU4DTQ-600x420.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 411018,
+            "dimensions": [
+                1200,
+                840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EU4DTQ"
+        },
+        {
+            "filename": "lawrson-pinson-QR7aoDhNYBs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/lawrson-pinson-QR7aoDhNYBs-unsplash-600x779.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 496099,
+            "dimensions": [
+                924,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QR7aoDhNYBs"
+        },
+        {
+            "filename": "mark-basarab-1OtUkD_8svc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/mark-basarab-1OtUkD_8svc-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 343245,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1OtUkD_8svc"
+        },
+        {
+            "filename": "eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/eberhard-grossgasteiger-pBgnT4KH8d4-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 465759,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pBgnT4KH8d4"
+        },
+        {
+            "filename": "geran-de-klerk-f0oe9P9Yixs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/geran-de-klerk-f0oe9P9Yixs-unsplash-600x832.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 489006,
+            "dimensions": [
+                865,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/f0oe9P9Yixs"
+        },
+        {
+            "filename": "father-reading-book-with-son-and-daughter-and-pet-PAQM5HP.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/father-reading-book-with-son-and-daughter-and-pet-PAQM5HP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 337336,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAQM5HP"
+        },
+        {
+            "filename": "wedding-couple-6FV3YQD.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/wedding-couple-6FV3YQD-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 489842,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6FV3YQD"
+        },
+        {
+            "filename": "mechanic-at-car-service-V6QC2E3.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/mechanic-at-car-service-V6QC2E3-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 598395,
+            "dimensions": [
+                1600,
+                1068
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V6QC2E3"
+        },
+        {
+            "filename": "beautiful-wedding-couple-PHPKV39.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/beautiful-wedding-couple-PHPKV39-600x226.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 510116,
+            "dimensions": [
+                1600,
+                603
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHPKV39"
+        },
+        {
+            "filename": "wedding-beautiful-romantic-bride-and-groom-PKKCNX6.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/wedding-beautiful-romantic-bride-and-groom-PKKCNX6-600x314.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 503475,
+            "dimensions": [
+                1200,
+                628
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKKCNX6"
+        },
+        {
+            "filename": "fabian-gieske-VGkq_um-IdE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/fabian-gieske-VGkq_um-IdE-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 168402,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VGkq_um-IdE"
+        },
+        {
+            "filename": "fabian-gieske-3nQhyFuwUkk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/fabian-gieske-3nQhyFuwUkk-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 217582,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3nQhyFuwUkk"
+        },
+        {
+            "filename": "brooke-cagle-kElEigko7PU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/brooke-cagle-kElEigko7PU-unsplash-600x403.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 409715,
+            "dimensions": [
+                1200,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/kElEigko7PU"
+        },
+        {
+            "filename": "smiling-young-beautiful-woman-using-mobile-phone-9GSQM3R.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/smiling-young-beautiful-woman-using-mobile-phone-9GSQM3R-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 498973,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9GSQM3R"
+        },
+        {
+            "filename": "smiling-african-businessman-standing-outdoors-PPMTLXR.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/smiling-african-businessman-standing-outdoors-PPMTLXR-600x419.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 627666,
+            "dimensions": [
+                1600,
+                1117
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPMTLXR"
+        },
+        {
+            "filename": "head-and-shoulders-portrait-of-smiling-RDC3G8K.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/head-and-shoulders-portrait-of-smiling-RDC3G8K-600x419.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 575604,
+            "dimensions": [
+                1472,
+                1027
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RDC3G8K"
+        },
+        {
+            "filename": "handsome-older-man-in-suit-with-big-smile-on-his-G6XWHTY.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/handsome-older-man-in-suit-with-big-smile-on-his-G6XWHTY-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 710533,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G6XWHTY"
+        },
+        {
+            "filename": "african-mature-man-with-spectacles-BU6WCDS.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/african-mature-man-with-spectacles-BU6WCDS-600x402.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 613684,
+            "dimensions": [
+                1600,
+                1072
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BU6WCDS"
+        },
+        {
+            "filename": "successful-business-woman-PR575DL.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/successful-business-woman-PR575DL-600x431.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 804174,
+            "dimensions": [
+                1600,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR575DL"
+        },
+        {
+            "filename": "andie-gomez-acebo-sEq4onJnWrI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/andie-gomez-acebo-sEq4onJnWrI-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 468790,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/sEq4onJnWrI"
+        },
+        {
+            "filename": "alex-chambers-TxCbfMc854c-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/alex-chambers-TxCbfMc854c-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 250529,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/TxCbfMc854c"
+        },
+        {
+            "filename": "alissa-de-leva-DeM8mEQf138-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/alissa-de-leva-DeM8mEQf138-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 244628,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/DeM8mEQf138"
+        },
+        {
+            "filename": "alve-odonnell-RP4_f4zu_8A-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/alve-odonnell-RP4_f4zu_8A-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 444905,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RP4_f4zu_8A"
+        },
+        {
+            "filename": "camilla-carvalho-Y9dcQpOIMHQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/camilla-carvalho-Y9dcQpOIMHQ-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 339923,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Y9dcQpOIMHQ"
+        },
+        {
+            "filename": "chuttersnap-NYqEk7a42yc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/chuttersnap-NYqEk7a42yc-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 288081,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/NYqEk7a42yc"
+        },
+        {
+            "filename": "celine-ruiz-rr4bawLxOjc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/celine-ruiz-rr4bawLxOjc-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 434095,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rr4bawLxOjc"
+        },
+        {
+            "filename": "ashton-mullins-j1HU-Oll7KI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/ashton-mullins-j1HU-Oll7KI-unsplash-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 220802,
+            "dimensions": [
+                1200,
+                795
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/j1HU-Oll7KI"
+        },
+        {
+            "filename": "katsiaryna-endruszkiewicz-I27xgU5RSFM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/katsiaryna-endruszkiewicz-I27xgU5RSFM-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 468118,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/I27xgU5RSFM"
+        },
+        {
+            "filename": "cornelia-ng-zZLhoEwGCeM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/cornelia-ng-zZLhoEwGCeM-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 287455,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/zZLhoEwGCeM"
+        },
+        {
+            "filename": "till-kraus-0F7UG5-sHIg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/till-kraus-0F7UG5-sHIg-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 308240,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/0F7UG5-sHIg"
+        },
+        {
+            "filename": "maddi-bazzocco-lk7s8i5NdqE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/maddi-bazzocco-lk7s8i5NdqE-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 418729,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lk7s8i5NdqE"
+        },
+        {
+            "filename": "vinicius-amnx-amano-V16owPoti24-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/vinicius-amnx-amano-V16owPoti24-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 460849,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/V16owPoti24"
+        },
+        {
+            "filename": "seashell-in-love-kristin-UAp9oAr6Wfk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/seashell-in-love-kristin-UAp9oAr6Wfk-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                }
+            ],
+            "filesize": 418495,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UAp9oAr6Wfk"
+        },
+        {
+            "filename": "tamara-bellis-_DvfL5b7Xhk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-_DvfL5b7Xhk-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-2.json",
+                    "name": "Gallery 2"
+                },
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 442584,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_DvfL5b7Xhk"
+        },
+        {
+            "filename": "tamara-bellis-dqC_NVYDY9o-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-dqC_NVYDY9o-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 401602,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/dqC_NVYDY9o"
+        },
+        {
+            "filename": "tamara-bellis-8_LseWE80rA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-8_LseWE80rA-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 483406,
+            "dimensions": [
+                1805,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/8_LseWE80rA"
+        },
+        {
+            "filename": "tamara-bellis-AreMq4SKhPA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-AreMq4SKhPA-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 337958,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AreMq4SKhPA"
+        },
+        {
+            "filename": "tamara-bellis-wYwQMrLBbXI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-wYwQMrLBbXI-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 498445,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wYwQMrLBbXI"
+        },
+        {
+            "filename": "tamara-bellis-lSEd0aK7HGc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-lSEd0aK7HGc-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 450215,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lSEd0aK7HGc"
+        },
+        {
+            "filename": "tamara-bellis-toa7kV0WPiM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-toa7kV0WPiM-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 425739,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/toa7kV0WPiM"
+        },
+        {
+            "filename": "tamara-bellis-uN1m9Ca0aqo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-uN1m9Ca0aqo-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 95880,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uN1m9Ca0aqo"
+        },
+        {
+            "filename": "tamara-bellis-Dv0YZ2_V3nc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-Dv0YZ2_V3nc-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                }
+            ],
+            "filesize": 437014,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Dv0YZ2_V3nc"
+        },
+        {
+            "filename": "tamara-bellis-bLAW6RlErZ0-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-bLAW6RlErZ0-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-single.json",
+                    "name": "Photo Single"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 323063,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/bLAW6RlErZ0"
+        },
+        {
+            "filename": "tamara-bellis-jQ4yWDN-kLE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-jQ4yWDN-kLE-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 411158,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/jQ4yWDN-kLE"
+        },
+        {
+            "filename": "tamara-bellis-UOO6InuWU1M-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-UOO6InuWU1M-unsplash-600x902.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 408429,
+            "dimensions": [
+                798,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UOO6InuWU1M"
+        },
+        {
+            "filename": "tamara-bellis-AaASnb3rC-M-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-AaASnb3rC-M-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 416633,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/AaASnb3rC-M"
+        },
+        {
+            "filename": "tamara-bellis-M5HPHk1y7xg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-M5HPHk1y7xg-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 496411,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/M5HPHk1y7xg"
+        },
+        {
+            "filename": "tamara-bellis-nOnT17lKYz8-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-nOnT17lKYz8-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 371483,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nOnT17lKYz8"
+        },
+        {
+            "filename": "tamara-bellis-tYnqqEJrRrw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-tYnqqEJrRrw-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 430839,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/tYnqqEJrRrw"
+        },
+        {
+            "filename": "tamara-bellis-A3nY7LK64qU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-A3nY7LK64qU-unsplash-600x902.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 443647,
+            "dimensions": [
+                798,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/A3nY7LK64qU"
+        },
+        {
+            "filename": "tamara-bellis-kt0o5AjEVi4-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/tamara-bellis-kt0o5AjEVi4-unsplash-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 410308,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/kt0o5AjEVi4"
+        },
+        {
+            "filename": "logo12.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo12.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8117,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo12.png"
+        },
+        {
+            "filename": "logo13.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo13.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 6178,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo13.png"
+        },
+        {
+            "filename": "logo14.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo14.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 10431,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo14.png"
+        },
+        {
+            "filename": "LOGO15.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/LOGO15.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 6692,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/LOGO15.png"
+        },
+        {
+            "filename": "logo11.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo11.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8243,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo11.png"
+        },
+        {
+            "filename": "logo17.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo17.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 7144,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo17.png"
+        },
+        {
+            "filename": "logo18.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo18.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 5568,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo18.png"
+        },
+        {
+            "filename": "logo16.png",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo16.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8634,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/logo16.png"
+        },
+        {
+            "filename": "newly-wed-couple-in-love-DP9AYNG.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/newly-wed-couple-in-love-DP9AYNG-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 500116,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DP9AYNG"
+        },
+        {
+            "filename": "beautiful-wedding-couple-ZQPRKMG.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/beautiful-wedding-couple-ZQPRKMG-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 506713,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZQPRKMG"
+        },
+        {
+            "filename": "couple-at-beautiful-beach-wedding-PJC8L67.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/couple-at-beautiful-beach-wedding-PJC8L67-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 502201,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJC8L67"
+        },
+        {
+            "filename": "dog-in-the-garden-PRM4JGJ.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/dog-in-the-garden-PRM4JGJ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 303714,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRM4JGJ"
+        },
+        {
+            "filename": "asian-young-man-with-his-shih-tze-dog-9B4NZHE.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/asian-young-man-with-his-shih-tze-dog-9B4NZHE-600x438.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 800314,
+            "dimensions": [
+                1600,
+                1167
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9B4NZHE"
+        },
+        {
+            "filename": "small-kid-with-dog-YC6WDXN.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/small-kid-with-dog-YC6WDXN-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 723356,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YC6WDXN"
+        },
+        {
+            "filename": "rainy-day-with-dog-in-nature-PP3UM6A.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/rainy-day-with-dog-in-nature-PP3UM6A-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 871897,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PP3UM6A"
+        },
+        {
+            "filename": "diana-parkhouse-Qf4eZXC3t2Y-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/diana-parkhouse-Qf4eZXC3t2Y-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 383937,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Qf4eZXC3t2Y"
+        },
+        {
+            "filename": "andreas-dress-Iw12lY3koDk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/andreas-dress-Iw12lY3koDk-unsplash-600x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 503179,
+            "dimensions": [
+                675,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Iw12lY3koDk"
+        },
+        {
+            "filename": "ben-klea-IWKjV_nhhOY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/ben-klea-IWKjV_nhhOY-unsplash-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 488914,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IWKjV_nhhOY"
+        },
+        {
+            "filename": "windows-skyscraper-business-reflect-office-PGZWL9F.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/windows-skyscraper-business-reflect-office-PGZWL9F-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 857354,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGZWL9F"
+        },
+        {
+            "filename": "beautiful-wedding-couple-posing-PAS2YE9.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/beautiful-wedding-couple-posing-PAS2YE9-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 375416,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAS2YE9"
+        },
+        {
+            "filename": "beautiful-woman-ZJESBV2.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/beautiful-woman-ZJESBV2-600x362.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 439208,
+            "dimensions": [
+                1200,
+                724
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZJESBV2"
+        },
+        {
+            "filename": "smiling-man-with-his-dog-in-park-on-a-sunny-day-PDNWL2X.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/smiling-man-with-his-dog-in-park-on-a-sunny-day-PDNWL2X-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 864418,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDNWL2X"
+        },
+        {
+            "filename": "james-bold-E0NU4D455Xk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/james-bold-E0NU4D455Xk-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 415564,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/E0NU4D455Xk"
+        },
+        {
+            "filename": "cayton-heath-wBTJUQikz_I-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/cayton-heath-wBTJUQikz_I-unsplash-600x371.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 287623,
+            "dimensions": [
+                1200,
+                742
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wBTJUQikz_I"
+        },
+        {
+            "filename": "imani-clovis-LxVxPA1LOVM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/imani-clovis-LxVxPA1LOVM-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 287476,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/LxVxPA1LOVM"
+        },
+        {
+            "filename": "content-pixie-ZB4eQcNqVUs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/intothedesign.com\/kits\/kit-5\/wp-content\/uploads\/sites\/6\/2020\/04\/content-pixie-ZB4eQcNqVUs-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 323126,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ZB4eQcNqVUs"
+        }
+    ]
+}

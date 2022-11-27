@@ -1,0 +1,1447 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Proto",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elipso.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.png",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Benefit Counter Section",
+            "screenshot": "screenshots\/benefit-counter-section.png",
+            "source": "templates\/benefit-counter-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/benefit-counter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/proto.elipso.site\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/category"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Categories."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/proto.elipso.site\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Menu",
+            "screenshot": "screenshots\/menu.png",
+            "source": "templates\/menu.json",
+            "preview_url": "https:\/\/proto.elipso.site\/?elementor_library=menu",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/proto.elipso.site\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page",
+            "screenshot": "screenshots\/home-page.png",
+            "source": "templates\/home-page.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/home-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Contacts Section",
+            "screenshot": "screenshots\/our-contacts-section.png",
+            "source": "templates\/our-contacts-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/our-contacts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Photo Gallery Section",
+            "screenshot": "screenshots\/photo-gallery-section.png",
+            "source": "templates\/photo-gallery-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/photo-gallery\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Grid Section",
+            "screenshot": "screenshots\/portfolio-grid-section.png",
+            "source": "templates\/portfolio-grid-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/portfolio-grid-format\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Clients Testimonials Section",
+            "screenshot": "screenshots\/clients-testimonials-section.png",
+            "source": "templates\/clients-testimonials-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/clients-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Work Expirience Section",
+            "screenshot": "screenshots\/work-expirience-section.png",
+            "source": "templates\/work-expirience-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/work-expirience\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Photographer Section",
+            "screenshot": "screenshots\/about-photographer-section.png",
+            "source": "templates\/about-photographer-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/about-photographer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me Section",
+            "screenshot": "screenshots\/about-me-section.png",
+            "source": "templates\/about-me-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/about-me\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Recent News Section",
+            "screenshot": "screenshots\/recent-news-section.png",
+            "source": "templates\/recent-news-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/recent-news\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Form Section",
+            "screenshot": "screenshots\/contact-form-section.png",
+            "source": "templates\/contact-form-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Call To Action Section",
+            "screenshot": "screenshots\/call-to-action-section.png",
+            "source": "templates\/call-to-action-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/call-to-action-banner\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Site Benefits Section",
+            "screenshot": "screenshots\/site-benefits-section.png",
+            "source": "templates\/site-benefits-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/site-benefits\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Masonry Section",
+            "screenshot": "screenshots\/portfolio-masonry-section.png",
+            "source": "templates\/portfolio-masonry-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/portfolio-masonry-format\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Page Slider Section",
+            "screenshot": "screenshots\/home-page-slider-section.png",
+            "source": "templates\/home-page-slider-section.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/home-page-slider\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Masonry",
+            "screenshot": "screenshots\/portfolio-masonry.png",
+            "source": "templates\/portfolio-masonry.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/portfolio-masonry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Grid",
+            "screenshot": "screenshots\/portfolio-grid.png",
+            "source": "templates\/portfolio-grid.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/portfolio-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contacts",
+            "screenshot": "screenshots\/contacts.png",
+            "source": "templates\/contacts.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/contacts\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/proto.elipso.site\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/proto.elipso.site\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Envato Elements",
+            "version": "2.0.5",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "ian-dooley-TLD6iCOlyb0-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/ian-dooley-TLD6iCOlyb0-unsplash-1-600x558.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 44423,
+            "dimensions": [
+                1075,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "999155f7702869a3ff04aebf2f6fd0707805cb73.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/999155f7702869a3ff04aebf2f6fd0707805cb73-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 84554,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "fashion.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/fashion-600x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 56561,
+            "dimensions": [
+                1497,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFTS3WY"
+        },
+        {
+            "filename": "fashion-2.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/fashion-2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                }
+            ],
+            "filesize": 68031,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AAC7WAR"
+        },
+        {
+            "filename": "b76cebc142311c723944c695b31323b6c4ef72df.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/b76cebc142311c723944c695b31323b6c4ef72df-600x425.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 98625,
+            "dimensions": [
+                1523,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "521347d9de10406120a630b259359d22735f40d3.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/521347d9de10406120a630b259359d22735f40d3-600x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 35850,
+            "dimensions": [
+                1350,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "a8140765013b9ab1238041d0f259181df485dad5-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/a8140765013b9ab1238041d0f259181df485dad5-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 232037,
+            "dimensions": [
+                1618,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "3b9f770bd38b4237cfb196fdce0e17533c779289.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/3b9f770bd38b4237cfb196fdce0e17533c779289-600x586.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 106949,
+            "dimensions": [
+                1105,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "37be51a67ccf60c0ef6bb1c07c3154cf683bbc7f-15.22.54.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/37be51a67ccf60c0ef6bb1c07c3154cf683bbc7f-15.22.54-600x402.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 33854,
+            "dimensions": [
+                1613,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "creative-layout-made-gold-pineapple-on-brightly-yellow-background-minimal-style-.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/creative-layout-made-gold-pineapple-on-brightly-yellow-background-minimal-style--600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                }
+            ],
+            "filesize": 71829,
+            "dimensions": [
+                1620,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP5QTWB"
+        },
+        {
+            "filename": "74a91a2e3a6afe4b2fb3d5a92bac7ff713bbc6eb.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/74a91a2e3a6afe4b2fb3d5a92bac7ff713bbc6eb-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                }
+            ],
+            "filesize": 127957,
+            "dimensions": [
+                1618,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "d9ec64188b4d1c074696d6d0b569c7d7c5f7063d.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/d9ec64188b4d1c074696d6d0b569c7d7c5f7063d.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 29673,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "female-hand-with-a-retro-camera.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/female-hand-with-a-retro-camera-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 164769,
+            "dimensions": [
+                1619,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GX9LDQN"
+        },
+        {
+            "filename": "e5d86d8c89107c193b242418117ce137e2a326ec.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/e5d86d8c89107c193b242418117ce137e2a326ec-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 129479,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7492664"
+        },
+        {
+            "filename": "Lines.png",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/Lines-600x195.png",
+            "templates": [
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 35608,
+            "dimensions": [
+                1920,
+                624
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/upload.php?item=36"
+        },
+        {
+            "filename": "amazing-african-young-lady-walking-outdoors-P7RG7NT-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/amazing-african-young-lady-walking-outdoors-P7RG7NT-1-600x352.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/home-page-slider-section.json",
+                    "name": "Home Page Slider Section"
+                }
+            ],
+            "filesize": 136517,
+            "dimensions": [
+                1841,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7RG7NT"
+        },
+        {
+            "filename": "fashion-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/fashion-1-600x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 141862,
+            "dimensions": [
+                1554,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWRLRW2"
+        },
+        {
+            "filename": "020a87d2e72d485878329752dac3bdd0c0d4fa7c.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/020a87d2e72d485878329752dac3bdd0c0d4fa7c-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 49916,
+            "dimensions": [
+                1368,
+                912
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "c7352f9c42de2d5e8de051e1473b7583fc9ca85c.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/c7352f9c42de2d5e8de051e1473b7583fc9ca85c-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                }
+            ],
+            "filesize": 54955,
+            "dimensions": [
+                721,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "happy-african-curly-young-woman-photographer-weari-PMHYPXW-1-scaled.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/happy-african-curly-young-woman-photographer-weari-PMHYPXW-1-600x483.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/clients-testimonials-section.json",
+                    "name": "Clients Testimonials Section"
+                },
+                {
+                    "source": "templates\/about-photographer-section.json",
+                    "name": "About Photographer Section"
+                }
+            ],
+            "filesize": 74154,
+            "dimensions": [
+                1341,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-african-curly-young-woman-photographer-weari-PMHYPXW"
+        },
+        {
+            "filename": "protoimg-2.png",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/protoimg-2-600x435.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about-photographer-section.json",
+                    "name": "About Photographer Section"
+                }
+            ],
+            "filesize": 4820,
+            "dimensions": [
+                620,
+                450
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/post.php?post=745&action=edit"
+        },
+        {
+            "filename": "img.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/img-600x231.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/call-to-action-section.json",
+                    "name": "Call To Action Section"
+                }
+            ],
+            "filesize": 73443,
+            "dimensions": [
+                1170,
+                450
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/upload.php?item=50"
+        },
+        {
+            "filename": "phone-call.png",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/phone-call.png",
+            "templates": [
+                {
+                    "source": "templates\/our-contacts-section.json",
+                    "name": "Our Contacts Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 1338,
+            "dimensions": [
+                71,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/upload.php?item=129"
+        },
+        {
+            "filename": "email.png",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/email.png",
+            "templates": [
+                {
+                    "source": "templates\/our-contacts-section.json",
+                    "name": "Our Contacts Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 989,
+            "dimensions": [
+                90,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/upload.php?item=130"
+        },
+        {
+            "filename": "instagram.png",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/instagram.png",
+            "templates": [
+                {
+                    "source": "templates\/our-contacts-section.json",
+                    "name": "Our Contacts Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                }
+            ],
+            "filesize": 606,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/proto.elipso.site\/wp-admin\/upload.php?item=131"
+        },
+        {
+            "filename": "eb07e998a3d2b23551e100a9a821e2527efb8082.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/eb07e998a3d2b23551e100a9a821e2527efb8082-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 86076,
+            "dimensions": [
+                794,
+                992
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "ecb355755671d32624c4b0c27694eb6539d9c495.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/ecb355755671d32624c4b0c27694eb6539d9c495-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 26462,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "c0a85b013393ca00d62bbc3a3c6bb22e12544610.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/c0a85b013393ca00d62bbc3a3c6bb22e12544610-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 37800,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2544610"
+        },
+        {
+            "filename": "cc2319c94fdb10fd65ef1c08d8b7ef3067f981a4.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/cc2319c94fdb10fd65ef1c08d8b7ef3067f981a4-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-gallery-section.json",
+                    "name": "Photo Gallery Section"
+                },
+                {
+                    "source": "templates\/contacts.json",
+                    "name": "Contacts"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 68010,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "ian-dooley-TLD6iCOlyb0-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/ian-dooley-TLD6iCOlyb0-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 80268,
+            "dimensions": [
+                1366,
+                2048
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "f37dd7a6f0e4e4ddc05a0da9745f66d8c18d878c.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/f37dd7a6f0e4e4ddc05a0da9745f66d8c18d878c-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid-section.json",
+                    "name": "Portfolio Grid Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry-section.json",
+                    "name": "Portfolio Masonry Section"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 32943,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "woman-with-puppy.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/woman-with-puppy-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients-testimonials-section.json",
+                    "name": "Clients Testimonials Section"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 90092,
+            "dimensions": [
+                1618,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WAECEPB"
+        },
+        {
+            "filename": "beautiful-woman-drinking-wine.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/beautiful-woman-drinking-wine-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients-testimonials-section.json",
+                    "name": "Clients Testimonials Section"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 118194,
+            "dimensions": [
+                1618,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7YNZ48R"
+        },
+        {
+            "filename": "97539841170bf52d3ce748349f535b09993f9e1e.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/97539841170bf52d3ce748349f535b09993f9e1e-600x892.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me-section.json",
+                    "name": "About Me Section"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 54537,
+            "dimensions": [
+                727,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "2593373.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/2593373-600x270.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-slider-section.json",
+                    "name": "Home Page Slider Section"
+                }
+            ],
+            "filesize": 189075,
+            "dimensions": [
+                1780,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "pears-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/pears-1-600x411.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                }
+            ],
+            "filesize": 130032,
+            "dimensions": [
+                1578,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMJE4LX"
+        },
+        {
+            "filename": "top-view-of-white-clothes-hangers-on-yellow-background-with-copy-space-flat-lay-minimalism-style-1.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/top-view-of-white-clothes-hangers-on-yellow-background-with-copy-space-flat-lay-minimalism-style-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 79311,
+            "dimensions": [
+                1618,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BQMEZH5"
+        },
+        {
+            "filename": "58e85a7c690e3ff590f90b9d5b441696dee0beb5.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/58e85a7c690e3ff590f90b9d5b441696dee0beb5-600x529.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 52062,
+            "dimensions": [
+                850,
+                750
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        },
+        {
+            "filename": "69454e07eb95b964b550bfcd1083dc975c2f1439.jpg",
+            "thumbnail_url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/69454e07eb95b964b550bfcd1083dc975c2f1439-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 43681,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/"
+        }
+    ]
+}

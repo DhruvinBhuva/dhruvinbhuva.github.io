@@ -1,0 +1,187 @@
+{
+    "version": "0.4",
+    "title": "Menu",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-popup",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "17e288c7",
+            "settings": {
+                "layout": "full_width"
+            },
+            "elements": [
+                {
+                    "id": "7cfc0fa",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "align": "flex-end"
+                    },
+                    "elements": [
+                        {
+                            "id": "4df5aac0",
+                            "settings": {
+                                "menu_typography_typography": "custom",
+                                "menu_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                },
+                                "menu_typography_font_weight": "400",
+                                "menu_typography_text_transform": "uppercase",
+                                "menu_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "menu_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "padding_horizontal_menu_item": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "menu_space_between": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "140",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_element_width": "initial",
+                                "__globals__": {
+                                    "menu_typography_typography": "",
+                                    "_background_color": "globals\/colors?id=ec25634",
+                                    "pointer_color_menu_item_hover": "globals\/colors?id=text",
+                                    "pointer_color_menu_item_active": "globals\/colors?id=text",
+                                    "dropdown_border_color": "globals\/colors?id=ec25634",
+                                    "background_color_dropdown_item_hover": "globals\/colors?id=07414c8",
+                                    "color_dropdown_item_hover": "globals\/colors?id=a047deb",
+                                    "color_dropdown_item_active": "globals\/colors?id=a047deb"
+                                },
+                                "indicator": "chevron",
+                                "pointer_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "dropdown_typography_typography": "custom",
+                                "dropdown_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                },
+                                "dropdown_typography_font_weight": "400",
+                                "dropdown_typography_text_transform": "uppercase",
+                                "dropdown_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "dropdown_border_border": "solid",
+                                "dropdown_border_width": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "12",
+                                    "bottom": "20",
+                                    "left": "4",
+                                    "isLinked": false
+                                },
+                                "dropdown_box_shadow_box_shadow_type": "yes",
+                                "dropdown_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 48,
+                                    "spread": -8,
+                                    "color": "rgba(0, 0, 0, 0.2)"
+                                },
+                                "padding_vertical_dropdown_item": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "vw",
+            "size": 100,
+            "sizes": []
+        },
+        "horizontal_position": "right",
+        "vertical_position": "top",
+        "entrance_animation": "slideInRight",
+        "exit_animation": "slideInRight",
+        "background_background": "classic",
+        "box_shadow_box_shadow_type": "",
+        "close_button_vertical": {
+            "unit": "px",
+            "size": 26,
+            "sizes": []
+        },
+        "close_button_horizontal": {
+            "unit": "px",
+            "size": 89,
+            "sizes": []
+        },
+        "icon_size": {
+            "unit": "px",
+            "size": 13,
+            "sizes": []
+        },
+        "close_button_delay": 0.5,
+        "margin": {
+            "unit": "px",
+            "top": "13",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+        },
+        "__globals__": {
+            "overlay_background_color": "globals\/colors?id=07414c8",
+            "background_color": "globals\/colors?id=07414c8"
+        },
+        "height_type": "fit_to_screen"
+    }
+}

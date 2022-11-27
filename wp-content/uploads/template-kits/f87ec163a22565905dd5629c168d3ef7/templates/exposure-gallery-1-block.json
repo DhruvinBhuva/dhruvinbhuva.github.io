@@ -1,0 +1,599 @@
+{
+    "version": "0.4",
+    "title": "Exposure-gallery 1 : Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "57058486",
+            "settings": {
+                "gap": "no",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100
+                },
+                "content_position": "middle",
+                "structure": "30",
+                "background_background": "classic",
+                "background_color": "rgba(0, 0, 0, 0)",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "25",
+                    "bottom": "100",
+                    "left": "25",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_image": {
+                    "id": "1282",
+                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/Desktop-2-1.png"
+                },
+                "height": "min-height"
+            },
+            "elements": [
+                {
+                    "id": "506a1b55",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "47f491a",
+                            "settings": {
+                                "look": "line_text",
+                                "text": "my gallery",
+                                "color": "#FFFFFF",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "text_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Abhaya Libre",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 31,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "100",
+                                "text_align": "right",
+                                "text_spacing": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "_animation": "fadeInLeft",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "592aec3",
+                            "settings": {
+                                "title": "Gallery Section",
+                                "align": "left",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 65
+                                },
+                                "typography_font_weight": "600",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 45
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 75
+                                },
+                                "header_size": "h3",
+                                "typography_font_family": "Abhaya Libre",
+                                "_animation": "fadeInLeft",
+                                "_animation_delay": 450
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "392146b7",
+                            "settings": {
+                                "image": {
+                                    "id": "1296",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/small-house-of-lighthouse-keeper-1.jpg"
+                                },
+                                "hover_animation": "grow",
+                                "align_mobile": "left",
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 50
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 650,
+                                "css_filters_css_filter": "custom",
+                                "css_filters_hue": {
+                                    "unit": "px",
+                                    "size": 347,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ed86907",
+                            "settings": {
+                                "image": {
+                                    "id": "1288",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/Vector-4-1.png"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 69,
+                                    "sizes": []
+                                },
+                                "_z_index": 2,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": ""
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 79.167000000000001591615728102624416351318359375,
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": 68.474999999999994315658113919198513031005859375,
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": -4.3300000000000000710542735760100185871124267578125,
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 17.050000000000000710542735760100185871124267578125,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 10.0619999999999993889332472463138401508331298828125,
+                                    "unit": "%"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 229.282999999999987039700499735772609710693359375,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "43b7183b",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2d00a63a",
+                            "settings": {
+                                "image": {
+                                    "id": "1298",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/feet-of-nature-explorer-sitting-over-mountain-river-canyon-1.jpg"
+                                },
+                                "hover_animation": "grow",
+                                "align_mobile": "right",
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 50
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "-135",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 850,
+                                "css_filters_css_filter": "custom",
+                                "css_filters_hue": {
+                                    "unit": "px",
+                                    "size": 347,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7b533582",
+                            "settings": {
+                                "image": {
+                                    "id": "1288",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/Vector-4-1.png"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 69,
+                                    "sizes": []
+                                },
+                                "_z_index": 2,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": ""
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 5.83800000000000007815970093361102044582366943359375,
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": -2.818000000000000060396132539608515799045562744140625,
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 6.79900000000000037658764995285309851169586181640625,
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 17.050000000000000710542735760100185871124267578125,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": -16.7289999999999992041921359486877918243408203125,
+                                    "unit": "%"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 229.282999999999987039700499735772609710693359375,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50f8ae6a",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris<\/p>",
+                                "text_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2
+                                },
+                                "typography_font_weight": "300",
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 1200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "aaa061",
+                            "settings": {
+                                "text": "See More",
+                                "selected_icon": {
+                                    "value": "fas fa-long-arrow-alt-right",
+                                    "library": "fa-solid"
+                                },
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Abhaya Libre",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 19,
+                                    "sizes": []
+                                },
+                                "background_color": "#FF2E6300",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_color": "#FFFFFF",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "align": "center",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "72",
+                                    "bottom": "30",
+                                    "left": "72",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInDown",
+                                "_animation_delay": 1200,
+                                "align_tablet": "center",
+                                "size": "xs",
+                                "button_text_color": "#FFFFFF",
+                                "button_background_hover_color": "#FF2E63",
+                                "hover_animation": "grow",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "11b33bd8",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1acf30f3",
+                            "settings": {
+                                "image": {
+                                    "id": "1299",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/little-girl-hugs-her-bear-on-a-background-of-nature-autumn-durba-1.jpg"
+                                },
+                                "hover_animation": "grow",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "%",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 1000,
+                                "css_filters_css_filter": "custom",
+                                "css_filters_hue": {
+                                    "unit": "px",
+                                    "size": 347,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "764ab4e7",
+                            "settings": {
+                                "image": {
+                                    "id": "1288",
+                                    "url": "http:\/\/elementorkit.themedistrict.net\/wp-content\/uploads\/2020\/08\/Vector-4-1.png"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 69,
+                                    "sizes": []
+                                },
+                                "_z_index": 2,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": ""
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 88.59600000000000363797880709171295166015625,
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": 19.757999999999999118927007657475769519805908203125,
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 84.563999999999992951416061259806156158447265625,
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 17.050000000000000710542735760100185871124267578125,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 81.542000000000001591615728102624416351318359375,
+                                    "unit": "%"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 229.282999999999987039700499735772609710693359375,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

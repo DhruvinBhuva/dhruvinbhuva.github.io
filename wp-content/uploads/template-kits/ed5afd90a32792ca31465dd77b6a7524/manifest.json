@@ -1,0 +1,1769 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "CETUS - Creative Portfolio Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Home Page 1",
+            "screenshot": "screenshots\/cetus-home-page-1.jpg",
+            "source": "templates\/cetus-home-page-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Home Page 2",
+            "screenshot": "screenshots\/cetus-home-page-2.jpg",
+            "source": "templates\/cetus-home-page-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Home Page 3",
+            "screenshot": "screenshots\/cetus-home-page-3.jpg",
+            "source": "templates\/cetus-home-page-3.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Portfolio Page 1",
+            "screenshot": "screenshots\/cetus-portfolio-page-1.jpg",
+            "source": "templates\/cetus-portfolio-page-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/portfolio-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Portfolio Page 2",
+            "screenshot": "screenshots\/cetus-portfolio-page-2.jpg",
+            "source": "templates\/cetus-portfolio-page-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/portfolio-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Portfolio Page 3",
+            "screenshot": "screenshots\/cetus-portfolio-page-3.jpg",
+            "source": "templates\/cetus-portfolio-page-3.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/portfolio-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - About Page 1",
+            "screenshot": "screenshots\/cetus-about-page-1.jpg",
+            "source": "templates\/cetus-about-page-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/about-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - About Page 2",
+            "screenshot": "screenshots\/cetus-about-page-2.jpg",
+            "source": "templates\/cetus-about-page-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/about-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - About Me Page",
+            "screenshot": "screenshots\/cetus-about-me-page.jpg",
+            "source": "templates\/cetus-about-me-page.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Services Page",
+            "screenshot": "screenshots\/cetus-services-page.jpg",
+            "source": "templates\/cetus-services-page.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Pricing Table Page",
+            "screenshot": "screenshots\/cetus-pricing-table-page.jpg",
+            "source": "templates\/cetus-pricing-table-page.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/pricing-table-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Our Team Page",
+            "screenshot": "screenshots\/cetus-our-team-page.jpg",
+            "source": "templates\/cetus-our-team-page.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Contact Page 1",
+            "screenshot": "screenshots\/cetus-contact-page-1.jpg",
+            "source": "templates\/cetus-contact-page-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/contact-one\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Contact Page 2",
+            "screenshot": "screenshots\/cetus-contact-page-2.jpg",
+            "source": "templates\/cetus-contact-page-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/contact-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - 404 Page",
+            "screenshot": "screenshots\/cetus-404-page.png",
+            "source": "templates\/cetus-404-page.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/416\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Header Section 1",
+            "screenshot": "screenshots\/cetus-header-section-1.jpg",
+            "source": "templates\/cetus-header-section-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Header Section 2",
+            "screenshot": "screenshots\/cetus-header-section-2.jpg",
+            "source": "templates\/cetus-header-section-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Header Top Section",
+            "screenshot": "screenshots\/cetus-header-top-section.jpg",
+            "source": "templates\/cetus-header-top-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/top-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Footer Section",
+            "screenshot": "screenshots\/cetus-footer-section.jpg",
+            "source": "templates\/cetus-footer-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Footer Top Section 1",
+            "screenshot": "screenshots\/cetus-footer-top-section-1.jpg",
+            "source": "templates\/cetus-footer-top-section-1.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/top-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Footer Top Section 2",
+            "screenshot": "screenshots\/cetus-footer-top-section-2.jpg",
+            "source": "templates\/cetus-footer-top-section-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/top-footer-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Countdown Section",
+            "screenshot": "screenshots\/cetus-countdown-section.jpg",
+            "source": "templates\/cetus-countdown-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/countdown-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Pricing Table Section",
+            "screenshot": "screenshots\/cetus-pricing-table-section.jpg",
+            "source": "templates\/cetus-pricing-table-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/pricing-table-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Our Team Section",
+            "screenshot": "screenshots\/cetus-our-team-section.jpg",
+            "source": "templates\/cetus-our-team-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/our-team-section\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CETUS - Our Team Section 2",
+            "screenshot": "screenshots\/cetus-our-team-section-2.jpg",
+            "source": "templates\/cetus-our-team-section-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/template-kit\/our-team-section-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.0.0",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "JetWidgets For Elementor",
+            "version": "1.0.7",
+            "file": "jetwidgets-for-elementor\/jetwidgets-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "Elementor Addons, Widgets and Enhancements - Stax",
+            "version": "1.4.0",
+            "file": "stax-addons-for-elementor\/loader.php",
+            "author": "StaxWP"
+        }
+    ],
+    "images": [
+        {
+            "filename": "slider-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/slider-4-600x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                }
+            ],
+            "filesize": 125990,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "1-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/1-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 71420,
+            "dimensions": [
+                580,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "6-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/6-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 77603,
+            "dimensions": [
+                480,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/2-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 25709,
+            "dimensions": [
+                580,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "3-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/3-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 49014,
+            "dimensions": [
+                580,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 125887,
+            "dimensions": [
+                480,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "5-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/5-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 108190,
+            "dimensions": [
+                480,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "7-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/7-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-2.json",
+                    "name": "CETUS - Portfolio Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 118470,
+            "dimensions": [
+                480,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 2784,
+            "dimensions": [
+                93,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 5054,
+            "dimensions": [
+                79,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "3-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 3535,
+            "dimensions": [
+                56,
+                69
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "4-2.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/4-2.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 3503,
+            "dimensions": [
+                95,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "5-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-1.json",
+                    "name": "CETUS - Home Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 3982,
+            "dimensions": [
+                93,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "1-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/1-2-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-2.json",
+                    "name": "CETUS - Home Page 2"
+                },
+                {
+                    "source": "templates\/cetus-404-page.json",
+                    "name": "CETUS - 404 Page"
+                }
+            ],
+            "filesize": 384013,
+            "dimensions": [
+                1800,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "3-1-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/3-1-1-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-2.json",
+                    "name": "CETUS - Home Page 2"
+                },
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                }
+            ],
+            "filesize": 166700,
+            "dimensions": [
+                1800,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/2-2-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-2.json",
+                    "name": "CETUS - Home Page 2"
+                }
+            ],
+            "filesize": 289990,
+            "dimensions": [
+                1800,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "4-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/4-2-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-2.json",
+                    "name": "CETUS - Home Page 2"
+                }
+            ],
+            "filesize": 199460,
+            "dimensions": [
+                1800,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/5-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-2.json",
+                    "name": "CETUS - Home Page 2"
+                }
+            ],
+            "filesize": 363412,
+            "dimensions": [
+                1800,
+                865
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Banner-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Banner-1-600x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                }
+            ],
+            "filesize": 438243,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-man-with-beard-P8YH7FT"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 1584,
+            "dimensions": [
+                40,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 1459,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 1518,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "4-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 1399,
+            "dimensions": [
+                34,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-home-page-3.json",
+                    "name": "CETUS - Home Page 3"
+                },
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 1439,
+            "dimensions": [
+                38,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "counter.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/counter-600x125.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-countdown-section.json",
+                    "name": "CETUS - Countdown Section"
+                }
+            ],
+            "filesize": 294257,
+            "dimensions": [
+                1920,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/about1.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-countdown-section.json",
+                    "name": "CETUS - Countdown Section"
+                }
+            ],
+            "filesize": 1416,
+            "dimensions": [
+                48,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about2.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/about2.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-countdown-section.json",
+                    "name": "CETUS - Countdown Section"
+                }
+            ],
+            "filesize": 1623,
+            "dimensions": [
+                46,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about3.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/about3.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-countdown-section.json",
+                    "name": "CETUS - Countdown Section"
+                }
+            ],
+            "filesize": 1718,
+            "dimensions": [
+                45,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about4.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/about4.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-1.json",
+                    "name": "CETUS - Portfolio Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-countdown-section.json",
+                    "name": "CETUS - Countdown Section"
+                }
+            ],
+            "filesize": 1716,
+            "dimensions": [
+                46,
+                39
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "1-6.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/1-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 71420,
+            "dimensions": [
+                580,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-7.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/2-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                }
+            ],
+            "filesize": 25709,
+            "dimensions": [
+                580,
+                805
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "2-5.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/2-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 4840,
+            "dimensions": [
+                90,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "1-5.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 3823,
+            "dimensions": [
+                90,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "flower.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/flower.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 279570,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/4f399330-5836-4996-ae12-f86493e175b4"
+        },
+        {
+            "filename": "insta-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/insta-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 243518,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/6f43ba28-902f-4cd7-b12d-2ec6fb174c07"
+        },
+        {
+            "filename": "6-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/6-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 3961,
+            "dimensions": [
+                90,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "5-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/5-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-portfolio-page-3.json",
+                    "name": "CETUS - Portfolio Page 3"
+                },
+                {
+                    "source": "templates\/cetus-footer-top-section-2.json",
+                    "name": "CETUS - Footer Top Section 2"
+                }
+            ],
+            "filesize": 3845,
+            "dimensions": [
+                90,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "slider-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/slider-2-600x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                },
+                {
+                    "source": "templates\/cetus-pricing-table-page.json",
+                    "name": "CETUS - Pricing Table Page"
+                },
+                {
+                    "source": "templates\/cetus-contact-page-1.json",
+                    "name": "CETUS - Contact Page 1"
+                }
+            ],
+            "filesize": 241436,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about-cetus-bg.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/about-cetus-bg-600x349.png",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 79586,
+            "dimensions": [
+                962,
+                559
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "meeting-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/meeting-1-600x366.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                }
+            ],
+            "filesize": 470094,
+            "dimensions": [
+                960,
+                585
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-P56TX82"
+        },
+        {
+            "filename": "Team-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-me-page.json",
+                    "name": "CETUS - About Me Page"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 247253,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-bearded-man-combing-his-hair-YMRCS83"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                }
+            ],
+            "filesize": 183484,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-senior-man-sitting-at-the-table-3RUMVSR"
+        },
+        {
+            "filename": "Team-11.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                },
+                {
+                    "source": "templates\/cetus-contact-page-2.json",
+                    "name": "CETUS - Contact Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 193444,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-businesswoman-thinking-while-looking-t-NE34SHQ"
+        },
+        {
+            "filename": "Team-12-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-12-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                },
+                {
+                    "source": "templates\/cetus-contact-page-2.json",
+                    "name": "CETUS - Contact Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 235002,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-man-with-beard-P8YH7FT"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 140010,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-handsome-hispanic-businessman-ho-KJGWB7Q"
+        },
+        {
+            "filename": "Team-8.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section.json",
+                    "name": "CETUS - Our Team Section"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 162482,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-happy-business-woman-in-the-office-PEYWHBB"
+        },
+        {
+            "filename": "Team-10.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 244804,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hispanic-man-at-a-computer-in-an-office-smiling-to-PRDVCKP"
+        },
+        {
+            "filename": "Team-3.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-1.json",
+                    "name": "CETUS - About Page 1"
+                },
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                },
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section-2.json",
+                    "name": "CETUS - Our Team Section 2"
+                }
+            ],
+            "filesize": 196387,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-happy-woman-on-gray-background-P3TTQEP"
+        },
+        {
+            "filename": "Banner-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Banner-2-600x156.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-about-page-2.json",
+                    "name": "CETUS - About Page 2"
+                }
+            ],
+            "filesize": 235941,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-business-man-and-woman-standing-back-to-back-wit-P4D9UFM"
+        },
+        {
+            "filename": "about-item1-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/about-item1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 112589,
+            "dimensions": [
+                550,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about-item2-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/about-item2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 128399,
+            "dimensions": [
+                550,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about-item3-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/about-item3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 137689,
+            "dimensions": [
+                550,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "about-service.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/06\/about-service-600x196.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                },
+                {
+                    "source": "templates\/cetus-contact-page-2.json",
+                    "name": "CETUS - Contact Page 2"
+                }
+            ],
+            "filesize": 481376,
+            "dimensions": [
+                1920,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Team-13.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                },
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                }
+            ],
+            "filesize": 188777,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-man-P5Q694M"
+        },
+        {
+            "filename": "Team-9.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-services-page.json",
+                    "name": "CETUS - Services Page"
+                }
+            ],
+            "filesize": 139800,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-serious-young-businessman-wearing-black-s-EVLAGFR"
+        },
+        {
+            "filename": "Team-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                }
+            ],
+            "filesize": 193332,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-man-in-blue-shirt-and-beard-4EQGF62"
+        },
+        {
+            "filename": "Team-12.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/cetus\/wp-content\/uploads\/sites\/2\/2020\/07\/Team-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cetus-our-team-page.json",
+                    "name": "CETUS - Our Team Page"
+                },
+                {
+                    "source": "templates\/cetus-our-team-section.json",
+                    "name": "CETUS - Our Team Section"
+                }
+            ],
+            "filesize": 235002,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-man-with-beard-P8YH7FT"
+        }
+    ]
+}

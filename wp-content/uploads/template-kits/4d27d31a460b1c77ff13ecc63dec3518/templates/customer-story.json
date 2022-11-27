@@ -1,0 +1,752 @@
+{
+    "version": "0.4",
+    "title": "Customer Story",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "596b224",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 300,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "5f45c2ac",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1d7af281",
+                            "settings": {
+                                "html_tag": "h1",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "post-title",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2cdc6981",
+            "settings": {
+                "background_position": "center center",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_color": "#333333",
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "1e563dce",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "10f32fb9",
+                            "settings": {
+                                "height_inner": "min-height",
+                                "custom_height_inner": {
+                                    "unit": "px",
+                                    "size": 600,
+                                    "sizes": []
+                                },
+                                "structure": "20",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/coffee-shop-worker-smiling-to-camera-P68EEY2-1.jpg",
+                                    "id": 630
+                                },
+                                "background_position": "center center",
+                                "background_size": "cover",
+                                "background_overlay_background": "classic",
+                                "background_overlay_color": "#000000",
+                                "background_overlay_opacity": {
+                                    "unit": "px",
+                                    "size": 0.6,
+                                    "sizes": []
+                                },
+                                "overlay_blend_mode": "multiply",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "96",
+                                    "right": "96",
+                                    "bottom": "96",
+                                    "left": "96",
+                                    "isLinked": true
+                                },
+                                "background_overlay_color_stop": {
+                                    "unit": "%",
+                                    "size": 29,
+                                    "sizes": []
+                                },
+                                "background_overlay_color_b": "rgba(242, 41, 91, 0)",
+                                "background_overlay_color_b_stop": {
+                                    "unit": "%",
+                                    "size": 68,
+                                    "sizes": []
+                                },
+                                "background_overlay_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "background_color": "#333333",
+                                "background_bg_width_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "18451180",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 48.208,
+                                        "content_position": "center",
+                                        "_inline_size_tablet": 100,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "0",
+                                            "bottom": "48",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "8d374ae",
+                                            "settings": {
+                                                "title": "Kaleo helps Kafe Kopi bring their new coffee to market faster",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "32",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_color": "#FFFFFF",
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1502eb58",
+                                            "settings": {
+                                                "editor": "<p>\u201cGetting approvals is a lot faster with Kaleo. And in our industry, being faster means you\u2019re going to bring a product that\u2019s on-trend to market a lot quicker than normal.\u201d<\/p>",
+                                                "text_color": "#DEDEDE",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 21,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "24",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "49879be1",
+                                            "settings": {
+                                                "title": "\u2014Julian Hobson",
+                                                "header_size": "span",
+                                                "title_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1e87b7c9",
+                                            "settings": {
+                                                "title": "Senior Product Developer for Advanced Concepts, @kafekopi",
+                                                "header_size": "span",
+                                                "title_color": "#FFFFFF",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "800"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3d611fe9",
+                                            "settings": {
+                                                "text": "Read The Story",
+                                                "_animation": "fadeInLeft",
+                                                "button_text_color": "#333333",
+                                                "background_color": "#FFFFFF",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "border_color": "#333333",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "64",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7177f351",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 51.792
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "22cd7ad4",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "478183da",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6b18b50a",
+                            "settings": {
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1e623daa",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 20
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4066a624",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 59.333,
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "578bbd7b",
+                                            "settings": {
+                                                "title": "See how Kaleo is helping teams get organized and work smarter",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "64",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2c453ced",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 20
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1c91a60f",
+                            "settings": {
+                                "gallery_content": [
+                                    {
+                                        "gallery_title": "Jeans designer",
+                                        "gallery_desc": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec ullamcorper nulla non metus auctor ",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/two-young-men-startupers-over-grey-brick-wall-PCL69T8.jpg",
+                                            "id": 551
+                                        },
+                                        "filter_tag": "blog",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "8d85c47"
+                                    },
+                                    {
+                                        "gallery_title": "Startup rise",
+                                        "gallery_desc": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras justo odio, dapibus ac facilisis in",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/team-of-creative-people-in-office-PKWNTEG.jpg",
+                                            "id": 540
+                                        },
+                                        "filter_tag": "business",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "d7fced2"
+                                    },
+                                    {
+                                        "gallery_title": "ANC Headphone",
+                                        "gallery_desc": "Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/portrait-of-a-happy-young-man-with-headphones-in-68PZJ3N.jpg",
+                                            "id": 347
+                                        },
+                                        "filter_tag": "education",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "07df70b"
+                                    },
+                                    {
+                                        "gallery_title": "Cozy workplace",
+                                        "gallery_desc": "Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo.",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/apartment-with-modern-design-PKC5CS3.jpg",
+                                            "id": 645
+                                        },
+                                        "filter_tag": "education",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "e20c4f8"
+                                    },
+                                    {
+                                        "gallery_title": "Blue Chair",
+                                        "gallery_desc": "Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo.",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/modern-design-of-lounge-PBJQVAP.jpg",
+                                            "id": 649
+                                        },
+                                        "filter_tag": "education",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "2d4a8bf"
+                                    },
+                                    {
+                                        "gallery_title": "Milk bottle design",
+                                        "gallery_desc": "Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo.",
+                                        "gallery_thumb_image": {
+                                            "url": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/pic1.jpg",
+                                            "id": 508
+                                        },
+                                        "filter_tag": "education",
+                                        "demo_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "0d2f91e"
+                                    }
+                                ],
+                                "content_position": "bottom",
+                                "column_gap": "large",
+                                "hover_effect": "from-right",
+                                "lightcase_enable": "",
+                                "link_enable": "",
+                                "button_text": "Read The Story",
+                                "filter_show_title": "All",
+                                "overlay_color": "rgba(0, 0, 0, 0)",
+                                "overlay_title_color": "#333333",
+                                "overlay_desc_color": "#333333",
+                                "caption_align": "left",
+                                "caption_padding": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "widgetkit-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7842ff5e",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#F8F8F8",
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "76a2ab69",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7f61dd95",
+                            "settings": {
+                                "title": "Follow Us",
+                                "header_size": "h4",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "title_color": "#9C9C9C",
+                                "typography_typography": "custom",
+                                "typography_font_weight": "500",
+                                "typography_font_style": "italic"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "13e3884e",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Facebook",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "03ae2d6",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "on",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Twitter",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "on",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "401e6e3"
+                                    },
+                                    {
+                                        "text": "Dribbble",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "on",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "6362e44"
+                                    },
+                                    {
+                                        "text": "Behance",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "on",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "ef01319"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "text_color_hover": "#9C9C9C",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "64",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "12a263c6",
+                            "settings": {
+                                "title": "Let\u2019s Work Together",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "8",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "383065ba",
+                            "settings": {
+                                "title": "just drop me a line \u2014  ",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "24",
+                                    "bottom": "32",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "typography_typography": "custom",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d75519a",
+                            "settings": {
+                                "title": "hello@kaleodesign.com",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "32",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_weight": "800",
+                                "_element_width": "auto",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

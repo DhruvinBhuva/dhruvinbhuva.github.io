@@ -1,0 +1,1601 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Portosia",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Team",
+            "screenshot": "screenshots\/portosia-team.jpg",
+            "source": "templates\/portosia-team.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - 404",
+            "screenshot": "screenshots\/portosia-404.jpg",
+            "source": "templates\/portosia-404.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Portfolio Detail",
+            "screenshot": "screenshots\/portosia-portfolio-detail.jpg",
+            "source": "templates\/portosia-portfolio-detail.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Portfolio",
+            "screenshot": "screenshots\/portosia-portfolio.jpg",
+            "source": "templates\/portosia-portfolio.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Pricing",
+            "screenshot": "screenshots\/portosia-pricing.jpg",
+            "source": "templates\/portosia-pricing.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - FAQ",
+            "screenshot": "screenshots\/portosia-faq.jpg",
+            "source": "templates\/portosia-faq.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Contact",
+            "screenshot": "screenshots\/portosia-contact.jpg",
+            "source": "templates\/portosia-contact.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portosia - Service",
+            "screenshot": "screenshots\/portosia-service.jpg",
+            "source": "templates\/portosia-service.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - About",
+            "screenshot": "screenshots\/portosia-about.jpg",
+            "source": "templates\/portosia-about.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portosia - Home",
+            "screenshot": "screenshots\/portosia-home.jpg",
+            "source": "templates\/portosia-home.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Default Footer",
+            "screenshot": "screenshots\/default-footer.jpg",
+            "source": "templates\/default-footer.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/?elementor_library=default-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Default Header",
+            "screenshot": "screenshots\/default-header.jpg",
+            "source": "templates\/default-header.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/portosia\/?elementor_library=default-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-header.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-header-600x115.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-faq.json",
+                    "name": "Portosia - FAQ"
+                },
+                {
+                    "source": "templates\/portosia-contact.json",
+                    "name": "Portosia - Contact"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 3767,
+            "dimensions": [
+                1440,
+                275
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-header.png"
+        },
+        {
+            "filename": "dots-icon.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/dots-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1284,
+            "dimensions": [
+                136,
+                214
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/dots-icon.png"
+        },
+        {
+            "filename": "team-compress.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-compress-600x383.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 142734,
+            "dimensions": [
+                1440,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworking-process-designers-team-working-in-modern-3J5VUC2"
+        },
+        {
+            "filename": "circle-yellow.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-yellow.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2441,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-yellow.png"
+        },
+        {
+            "filename": "triangle-green.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/triangle-green.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2135,
+            "dimensions": [
+                133,
+                128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/triangle-green.png"
+        },
+        {
+            "filename": "people-meeting-2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/people-meeting-2.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 139696,
+            "dimensions": [
+                572,
+                562
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-team-meeting-at-office-PZZ8KNX"
+        },
+        {
+            "filename": "icon-light.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-light.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 3311,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-light.png"
+        },
+        {
+            "filename": "icon-briefcast.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-briefcast.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2356,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-briefcast.png"
+        },
+        {
+            "filename": "icon-bookmark.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-bookmark.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2182,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-bookmark.png"
+        },
+        {
+            "filename": "team-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 30477,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-software-developer-X2BPNGR"
+        },
+        {
+            "filename": "team-3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-3.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 41843,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lifestyle-people-emotions-and-beauty-concept-young-PFD2RES"
+        },
+        {
+            "filename": "team-4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-4.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 27780,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-carefree-asian-guy-in-blue-t-shirt-cross-arm-ZZPJAGG"
+        },
+        {
+            "filename": "team-2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-2.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 35336,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-young-designer-in-creative-office-PNBTMND"
+        },
+        {
+            "filename": "team-6.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-6.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 45439,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-friendly-woman-smiling-on-isolated-white-bac-ZNM3GBU"
+        },
+        {
+            "filename": "team-5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/team-5.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                }
+            ],
+            "filesize": 41295,
+            "dimensions": [
+                400,
+                280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-portrait-of-smiling-enthusiastic-hispanic-CT5PB4V"
+        },
+        {
+            "filename": "circle-big.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-big.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-faq.json",
+                    "name": "Portosia - FAQ"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 12647,
+            "dimensions": [
+                477,
+                477
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-big.png"
+        },
+        {
+            "filename": "circle-purple.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-purple.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-faq.json",
+                    "name": "Portosia - FAQ"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1985,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-purple.png"
+        },
+        {
+            "filename": "circle-pink.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-pink.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-faq.json",
+                    "name": "Portosia - FAQ"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 988,
+            "dimensions": [
+                43,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-pink.png"
+        },
+        {
+            "filename": "round-grey.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/round-grey.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-team.json",
+                    "name": "Portosia - Team"
+                },
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-pricing.json",
+                    "name": "Portosia - Pricing"
+                },
+                {
+                    "source": "templates\/portosia-faq.json",
+                    "name": "Portosia - FAQ"
+                },
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 251,
+            "dimensions": [
+                24,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/round-grey.png"
+        },
+        {
+            "filename": "bg-404.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-404.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 26666,
+            "dimensions": [
+                424,
+                417
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-404.png"
+        },
+        {
+            "filename": "icon-nf-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 3703,
+            "dimensions": [
+                158,
+                158
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-1.png"
+        },
+        {
+            "filename": "icon-nf-3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-3.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 2077,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-3.png"
+        },
+        {
+            "filename": "icon-nf-4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-4.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 1073,
+            "dimensions": [
+                86,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-4.png"
+        },
+        {
+            "filename": "icon-nf-5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-5.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 992,
+            "dimensions": [
+                43,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-5.png"
+        },
+        {
+            "filename": "icon-nf-2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-2.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 1352,
+            "dimensions": [
+                77,
+                82
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-nf-2.png"
+        },
+        {
+            "filename": "404-icon.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/404-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-404.json",
+                    "name": "Portosia - 404"
+                }
+            ],
+            "filesize": 25774,
+            "dimensions": [
+                535,
+                521
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/404-icon.png"
+        },
+        {
+            "filename": "pexels-toni-cuenca-577558.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/pexels-toni-cuenca-577558-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 60380,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/apple-computer-desk-lamp-577558\/"
+        },
+        {
+            "filename": "pexels-tranmautritam-285814.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/pexels-tranmautritam-285814-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 72858,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/apple-apple-device-design-desk-285814\/"
+        },
+        {
+            "filename": "pexels-tranmautritam-68763.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/pexels-tranmautritam-68763-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portosia-portfolio-detail.json",
+                    "name": "Portosia - Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 84230,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/blur-books-bookshelves-decor-68763\/"
+        },
+        {
+            "filename": "pexels-tom-swinnen-10346462.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/pexels-tom-swinnen-10346462-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portosia-portfolio.json",
+                    "name": "Portosia - Portfolio"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 101004,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photography-of-computer-1034646\/"
+        },
+        {
+            "filename": "service-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 4835,
+            "dimensions": [
+                174,
+                174
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-1.png"
+        },
+        {
+            "filename": "service-2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-2.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 7325,
+            "dimensions": [
+                174,
+                174
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-2.png"
+        },
+        {
+            "filename": "service-3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-3.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 10737,
+            "dimensions": [
+                174,
+                174
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/service-3.png"
+        },
+        {
+            "filename": "icon-quote.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 546,
+            "dimensions": [
+                54,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/icon-quote.png"
+        },
+        {
+            "filename": "circle-orange.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-orange.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-service.json",
+                    "name": "Portosia - Service"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1549,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-orange.png"
+        },
+        {
+            "filename": "react-round-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/react-round-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 3734,
+            "dimensions": [
+                146,
+                147
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/react-round-1.png"
+        },
+        {
+            "filename": "lang-css.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/lang-css.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 1897,
+            "dimensions": [
+                123,
+                122
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/lang-css.png"
+        },
+        {
+            "filename": "lang-html.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/lang-html.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 1902,
+            "dimensions": [
+                123,
+                122
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/lang-html.png"
+        },
+        {
+            "filename": "js-round-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/js-round-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 2920,
+            "dimensions": [
+                123,
+                122
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/js-round-1.png"
+        },
+        {
+            "filename": "vue-round-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/vue-round-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 1925,
+            "dimensions": [
+                99,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/vue-round-1.png"
+        },
+        {
+            "filename": "path-bg.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/path-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                }
+            ],
+            "filesize": 18979,
+            "dimensions": [
+                531,
+                517
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/path-bg.png"
+        },
+        {
+            "filename": "social-html5-outline.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-html5-outline.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1388,
+            "dimensions": [
+                49,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-html5-outline.png"
+        },
+        {
+            "filename": "social-css3-outline.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-css3-outline.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1487,
+            "dimensions": [
+                48,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-css3-outline.png"
+        },
+        {
+            "filename": "social-sass.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-sass.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 3152,
+            "dimensions": [
+                85,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-sass.png"
+        },
+        {
+            "filename": "social-nodejs.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-nodejs.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1824,
+            "dimensions": [
+                49,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-nodejs.png"
+        },
+        {
+            "filename": "social-angular-outline.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-angular-outline.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2131,
+            "dimensions": [
+                61,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-angular-outline.png"
+        },
+        {
+            "filename": "social-python.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-python.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1415,
+            "dimensions": [
+                59,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/social-python.png"
+        },
+        {
+            "filename": "circle-liness.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-liness.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 33219,
+            "dimensions": [
+                523,
+                496
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/circle-liness.png"
+        },
+        {
+            "filename": "square-line.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/square-line.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 4295,
+            "dimensions": [
+                158,
+                158
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/square-line.png"
+        },
+        {
+            "filename": "traingle-rounded.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/traingle-rounded.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-about.json",
+                    "name": "Portosia - About"
+                },
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2118,
+            "dimensions": [
+                152,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/traingle-rounded.png"
+        },
+        {
+            "filename": "line-group.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/line-group-600x480.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 7135,
+            "dimensions": [
+                855,
+                684
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/line-group-600x480.png"
+        },
+        {
+            "filename": "bg-profile-hero.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-profile-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 3928,
+            "dimensions": [
+                505,
+                505
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-profile-hero.png"
+        },
+        {
+            "filename": "react-round.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/react-round.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 3734,
+            "dimensions": [
+                146,
+                147
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/react-round.png"
+        },
+        {
+            "filename": "js-round.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/js-round.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 2920,
+            "dimensions": [
+                123,
+                122
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/js-round.png"
+        },
+        {
+            "filename": "vue-round.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/vue-round.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 1925,
+            "dimensions": [
+                99,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/vue-round.png"
+        },
+        {
+            "filename": "round-green.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/round-green.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 154,
+            "dimensions": [
+                10,
+                10
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/round-green.png"
+        },
+        {
+            "filename": "profile-hero.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/profile-hero.png",
+            "templates": [
+                {
+                    "source": "templates\/portosia-home.json",
+                    "name": "Portosia - Home"
+                }
+            ],
+            "filesize": 81220,
+            "dimensions": [
+                505,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-software-developer-X2BPNGR"
+        },
+        {
+            "filename": "bg-footer.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-footer-600x267.png",
+            "templates": [
+                {
+                    "source": "templates\/default-footer.json",
+                    "name": "Default Footer"
+                }
+            ],
+            "filesize": 5178,
+            "dimensions": [
+                1440,
+                640
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/bg-footer.png"
+        },
+        {
+            "filename": "logo-portosia-white.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/logo-portosia-white.png",
+            "templates": [
+                {
+                    "source": "templates\/default-footer.json",
+                    "name": "Default Footer"
+                }
+            ],
+            "filesize": 3230,
+            "dimensions": [
+                203,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/logo-portosia-white.png"
+        },
+        {
+            "filename": "logo-portosia.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/logo-portosia.png",
+            "templates": [
+                {
+                    "source": "templates\/default-header.json",
+                    "name": "Default Header"
+                }
+            ],
+            "filesize": 3915,
+            "dimensions": [
+                262,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/portosia\/wp-content\/uploads\/sites\/4\/2020\/10\/logo-portosia.png"
+        }
+    ]
+}

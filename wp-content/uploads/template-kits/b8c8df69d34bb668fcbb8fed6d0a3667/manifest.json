@@ -1,0 +1,1633 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Pixelate - Portfolio & Photography Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Page Title",
+            "screenshot": "screenshots\/section-page-title.jpg",
+            "source": "templates\/section-page-title.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-page-title\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Portfolio Grid Fullwidth",
+            "screenshot": "screenshots\/section-portfolio-grid-fullwidth.jpg",
+            "source": "templates\/section-portfolio-grid-fullwidth.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-portfolio-grid-fullwidth\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Portfolio Standard",
+            "screenshot": "screenshots\/section-portfolio-standard.jpg",
+            "source": "templates\/section-portfolio-standard.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-portfolio-standard\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section \u2013 Portfolio Masonry Fullwidth",
+            "screenshot": "screenshots\/section-portfolio-masonry-fullwidth.jpg",
+            "source": "templates\/section-portfolio-masonry-fullwidth.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-portfolio-masonry-wide\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - CTA",
+            "screenshot": "screenshots\/section-cta.jpg",
+            "source": "templates\/section-cta.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-cta\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Portfolio Grid",
+            "screenshot": "screenshots\/section-portfolio-grid.jpg",
+            "source": "templates\/section-portfolio-grid.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-portfolio-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Section - Portfolio Masonry",
+            "screenshot": "screenshots\/section-portfolio-masonry.jpg",
+            "source": "templates\/section-portfolio-masonry.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/section-portfolio-masonry\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio 2",
+            "screenshot": "screenshots\/single-portfolio-2.jpg",
+            "source": "templates\/single-portfolio-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/single-portfolio-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/contact-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2.jpg",
+            "source": "templates\/services-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/services-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header 2",
+            "screenshot": "screenshots\/header-2.jpg",
+            "source": "templates\/header-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/template-kit\/header-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "1.5.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.0.4",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.13",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "contemporary-art-gallery-YLVC52A.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/contemporary-art-gallery-YLVC52A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-page-title.json",
+                    "name": "Section - Page Title"
+                }
+            ],
+            "filesize": 206312,
+            "dimensions": [
+                1920,
+                990
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-art-gallery-YLVC52A"
+        },
+        {
+            "filename": "photographer-using-a-vintage-camera-e1597981361134.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/photographer-using-a-vintage-camera-e1597981361134.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 155794,
+            "dimensions": [
+                1280,
+                1918
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photographer-using-a-vintage-camera-7TRBPFS"
+        },
+        {
+            "filename": "beautiful-girl-in-black-hat-e1597981883301.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-girl-in-black-hat-e1597981883301.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 83888,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-girl-in-black-hat-NLZ2BUX"
+        },
+        {
+            "filename": "tattoo-artist-tattooing-young-woman-e1597980583142.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/tattoo-artist-tattooing-young-woman-e1597980583142.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 131088,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tattoo-artist-tattooing-young-woman-PATGND2"
+        },
+        {
+            "filename": "cyclist-riding-along-a-mountain-road-PEUHHQ7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/cyclist-riding-along-a-mountain-road-PEUHHQ7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 127009,
+            "dimensions": [
+                874,
+                1311
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEUHHQ7"
+        },
+        {
+            "filename": "married-bride-and-groom-dancing-e1597981289771.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/married-bride-and-groom-dancing-e1597981289771.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 115291,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/married-bride-and-groom-dancing-DECFR6H"
+        },
+        {
+            "filename": "monochrome-portrait-of-amazing-romantic-woman-leaning-on-piano-e1597981083563.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/monochrome-portrait-of-amazing-romantic-woman-leaning-on-piano-e1597981083563.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 108351,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/monochrome-portrait-of-amazing-romantic-woman-lean-PAGJTR2"
+        },
+        {
+            "filename": "vintage-motorcycle-cafe-racer-style-6XSNBAD-e1597981403838.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/vintage-motorcycle-cafe-racer-style-6XSNBAD-e1597981403838.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 277233,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-motorcycle-cafe-racer-style-6XSNBAD"
+        },
+        {
+            "filename": "turkish-wedding-e1597981588470.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/turkish-wedding-e1597981588470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 103699,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/turkish-wedding-D6LXCQ7"
+        },
+        {
+            "filename": "woman-journalist-shoot-e1597981930824.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/woman-journalist-shoot-e1597981930824.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 105953,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-journalist-shoot-6K5FARL"
+        },
+        {
+            "filename": "statue-of-liberty-black-and-white-with-black-sky-in-new-york-e1597981455547.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/statue-of-liberty-black-and-white-with-black-sky-in-new-york-e1597981455547.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 178650,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/statue-of-liberty-black-and-white-with-black-sky-i-P7WBLTHv"
+        },
+        {
+            "filename": "enlightenment_t20_O0Pg02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/enlightenment_t20_O0Pg02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid-fullwidth.json",
+                    "name": "Section - Portfolio Grid Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry-fullwidth.json",
+                    "name": "Section \u2013 Portfolio Masonry Fullwidth"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 75208,
+            "dimensions": [
+                1042,
+                696
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/a2107ba5-2cdc-4901-bb00-fe6e0aacc63e"
+        },
+        {
+            "filename": "teenage-boy-taking-a-picture-in-a-bedroom-hobby-and-photography-concept-e1597982500850.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/teenage-boy-taking-a-picture-in-a-bedroom-hobby-and-photography-concept-e1597982500850.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                },
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 209731,
+            "dimensions": [
+                1920,
+                1352
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teenage-boy-taking-a-picture-in-a-bedroom-hobby-an-PDZVYAT"
+        },
+        {
+            "filename": "bride-wearing-earing-on-wedding-ceremony-preparation-e1597982686285.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/bride-wearing-earing-on-wedding-ceremony-preparation-e1597982686285.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-standard.json",
+                    "name": "Section - Portfolio Standard"
+                }
+            ],
+            "filesize": 164503,
+            "dimensions": [
+                1280,
+                1764
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bride-wearing-earing-on-wedding-ceremony-preparati-PK6D4YG"
+        },
+        {
+            "filename": "beautiful-girl-in-wedding-gown-WYHZGAE-e1597981506722.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-girl-in-wedding-gown-WYHZGAE-e1597981506722.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/section-portfolio-masonry.json",
+                    "name": "Section - Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 248668,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-girl-in-wedding-gown-WYHZGAE"
+        },
+        {
+            "filename": "women-ring-with-diamonds-e1597982645724.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/women-ring-with-diamonds-e1597982645724.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                }
+            ],
+            "filesize": 72818,
+            "dimensions": [
+                1280,
+                1736
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/women-ring-with-diamonds-PT3VDK9"
+        },
+        {
+            "filename": "creative-stripes-from-projection-light-on-beautiful-woman-with-dark-skin-e1597981964545.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/creative-stripes-from-projection-light-on-beautiful-woman-with-dark-skin-e1597981964545.jpg",
+            "templates": [
+                {
+                    "source": "templates\/section-portfolio-grid.json",
+                    "name": "Section - Portfolio Grid"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 94328,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-stripes-from-projection-light-on-beautifu-P4SX5ZR"
+        },
+        {
+            "filename": "beautiful-girl-in-black-hat-2-e1597980130799.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-girl-in-black-hat-2-e1597980130799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 186889,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-girl-in-black-hat-9XKGYNZ"
+        },
+        {
+            "filename": "portrait@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/portrait@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2604,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "Camera@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Camera@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2686,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "Filter@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Filter@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3213,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "beautiful-hair-and-skin-woman-face-.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-hair-and-skin-woman-face-.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 136022,
+            "dimensions": [
+                805,
+                1076
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-hair-and-skin-woman-face-model-beauty-co-PJSAQVU"
+        },
+        {
+            "filename": "smart-fashionable-blogger-female-in-modern-clothes-and-glasses-in-a-studio-3-e1597981658154.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/smart-fashionable-blogger-female-in-modern-clothes-and-glasses-in-a-studio-3-e1597981658154.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 83145,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smart-fashionable-blogger-female-in-modern-clothes-KPRT2C9"
+        },
+        {
+            "filename": "fashion-portrait-of-young-man-in-black-e1597981699528.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/fashion-portrait-of-young-man-in-black-e1597981699528.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 90216,
+            "dimensions": [
+                1400,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-portrait-of-young-man-in-black-PRRGJWK"
+        },
+        {
+            "filename": "cute-asian-young-woman-photographer-e1597981739593.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/cute-asian-young-woman-photographer-e1597981739593.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 106633,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-asian-young-woman-photographer-PNA89KV"
+        },
+        {
+            "filename": "beautiful-girl-in-black-hat-1-e1597981797186.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-girl-in-black-hat-1-e1597981797186.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 165500,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-girl-in-black-hat-C4YHZ5Q"
+        },
+        {
+            "filename": "Icon2-Black@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Icon2-Black@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/header-2.json",
+                    "name": "Header 2"
+                }
+            ],
+            "filesize": 15543,
+            "dimensions": [
+                833,
+                188
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/pixelate"
+        },
+        {
+            "filename": "a-black-metal-teapot-and-a-cup-of-tea-in-glass-cup-e1597982307200.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/a-black-metal-teapot-and-a-cup-of-tea-in-glass-cup-e1597982307200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 179484,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-black-metal-teapot-and-a-cup-of-tea-in-glass-cup-YD5D2AL"
+        },
+        {
+            "filename": "a-man-pours-citrus-tea-on-a-wooden-table-healthy-drink-vintage-style-vegan-eco-products-6-e1597982088533.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/a-man-pours-citrus-tea-on-a-wooden-table-healthy-drink-vintage-style-vegan-eco-products-6-e1597982088533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 164640,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-man-pours-citrus-tea-on-a-wooden-table-healthy-d-9EFVPH2"
+        },
+        {
+            "filename": "autumn-harvest-concept-set-of-honey-and-bee-produc-UKG6UBZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/autumn-harvest-concept-set-of-honey-and-bee-produc-UKG6UBZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 156919,
+            "dimensions": [
+                1203,
+                803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-harvest-concept-set-of-honey-and-bee-produc-UKG6UBZ"
+        },
+        {
+            "filename": "a-man-pours-citrus-tea-on-a-wooden-table-healthy-drink-vintage-style-vegan-eco-products-1-e1597982122910.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/a-man-pours-citrus-tea-on-a-wooden-table-healthy-drink-vintage-style-vegan-eco-products-1-e1597982122910.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 274276,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "a-man-pours-citrus-tea-on-a-wooden-table-healthy-drink-vintage-style-vegan-eco-products"
+        },
+        {
+            "filename": "autumn-harvest-concept-set-of-honey-and-bee-produc-BYJE9VG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/autumn-harvest-concept-set-of-honey-and-bee-produc-BYJE9VG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 144115,
+            "dimensions": [
+                1203,
+                803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-harvest-concept-set-of-honey-and-bee-produc-BYJE9VG"
+        },
+        {
+            "filename": "autumn-harvest-concept-set-of-honey-and-bee-produc-QEUG8TG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/autumn-harvest-concept-set-of-honey-and-bee-produc-QEUG8TG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                }
+            ],
+            "filesize": 148231,
+            "dimensions": [
+                1203,
+                803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/autumn-harvest-concept-set-of-honey-and-bee-produc-QEUG8TG"
+        },
+        {
+            "filename": "Icon-2@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Icon-2@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio-2.json",
+                    "name": "Single Portfolio 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16189,
+            "dimensions": [
+                835,
+                194
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/pixelate"
+        },
+        {
+            "filename": "turkish-wedding-GRPZJ4M-e1597982378130.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/turkish-wedding-GRPZJ4M-e1597982378130.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 78816,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/turkish-wedding-GRPZJ4M"
+        },
+        {
+            "filename": "turkish-wedding-GKYXZ6R-e1597982406906.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/turkish-wedding-GKYXZ6R-e1597982406906.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 88381,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/turkish-wedding-GKYXZ6R"
+        },
+        {
+            "filename": "woman-writing-contact-list-from-phone-into-busines-P4QHUJY-e1597982443204.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/woman-writing-contact-list-from-phone-into-busines-P4QHUJY-e1597982443204.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 150400,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-writing-contact-list-from-phone-into-busines-P4QHUJY"
+        },
+        {
+            "filename": "travel-photographer-holding-pictures-top-view-DXJLBWM-e1597982471401.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/travel-photographer-holding-pictures-top-view-DXJLBWM-e1597982471401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 359201,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/travel-photographer-holding-pictures-top-view-DXJLBWM"
+        },
+        {
+            "filename": "portrait-beautiful-woman-with-jewelry-e1597982537956.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/portrait-beautiful-woman-with-jewelry-e1597982537956.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 109126,
+            "dimensions": [
+                1400,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-beautiful-woman-with-jewelry-TPDV9AU"
+        },
+        {
+            "filename": "table-setting-in-a-french-restaurant-for-two-e1597982571544.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/table-setting-in-a-french-restaurant-for-two-e1597982571544.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-2.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 88554,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/table-setting-in-a-french-restaurant-for-two-8E59XJV"
+        },
+        {
+            "filename": "Shutter@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Shutter@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2665,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "Lens@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Lens@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 782,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "Auto@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/Auto@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1743,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-photography-icons-line-AVUHPJ"
+        },
+        {
+            "filename": "photographer-with-digital-camera-in-studio-J2T42R9-e1597982601891.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/photographer-with-digital-camera-in-studio-J2T42R9-e1597982601891.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 83759,
+            "dimensions": [
+                1400,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photographer-with-digital-camera-in-studio-J2T42R9"
+        },
+        {
+            "filename": "young-cheerful-woman-with-a-camera-over-white-P6U4EGB2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/young-cheerful-woman-with-a-camera-over-white-P6U4EGB2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 88351,
+            "dimensions": [
+                502,
+                840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-cheerful-woman-with-a-camera-over-white-P6U4EGB"
+        },
+        {
+            "filename": "name-1-e1597984346803.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/name-1-e1597984346803.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26431,
+            "dimensions": [
+                1400,
+                184
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rosemary-signature-DZAUVG4"
+        },
+        {
+            "filename": "company-photo-editor-and-photographer-working-toge-YM4CVPG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/company-photo-editor-and-photographer-working-toge-YM4CVPG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 101537,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-photo-editor-and-photographer-working-toge-YM4CVPG"
+        }
+    ]
+}

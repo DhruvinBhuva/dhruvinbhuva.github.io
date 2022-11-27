@@ -1,0 +1,1447 @@
+{
+    "version": "0.4",
+    "title": "Pricing",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "587cc8d",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=9bf6f22"
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5ee41d4f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "animation": "none"
+                    },
+                    "elements": [
+                        {
+                            "id": "5a1e8c1e",
+                            "settings": {
+                                "title": "Pricing",
+                                "header_size": "h1",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 43,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 33,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=fa826c2"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "521606b9",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "align": "left",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=f01ed3e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "a804824",
+            "settings": {
+                "background_background": "classic",
+                "background_position": "initial",
+                "background_xpos": {
+                    "unit": "px",
+                    "size": -190,
+                    "sizes": []
+                },
+                "background_ypos": {
+                    "unit": "px",
+                    "size": 33,
+                    "sizes": []
+                },
+                "background_repeat": "no-repeat",
+                "background_bg_width": {
+                    "unit": "px",
+                    "size": 111,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "0",
+                    "bottom": "6",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=9bf6f22"
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5314e69a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2b6e007",
+                            "settings": {
+                                "title": "Best Price <br>for your need",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "_margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=fa826c2"
+                                },
+                                "align": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "543a8832",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=f01ed3e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37688192",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus.<\/p>",
+                                "align": "center",
+                                "text_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8000000000000000444089209850062616169452667236328125,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "300",
+                                    "bottom": "0",
+                                    "left": "300",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "typography_typography": "",
+                                    "text_color": "globals\/colors?id=fa826c2"
+                                },
+                                "_margin_tablet": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "22fc382c",
+                            "settings": {
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "3",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6cbf7b52",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "border_color": "globals\/colors?id=fa826c2"
+                                        },
+                                        "animation": "none"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1a739821",
+                                            "settings": {
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "border_hover_border": "solid",
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": 0,
+                                                    "bottom": "0",
+                                                    "left": 0,
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "30",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "animation": "fadeInUp",
+                                                "__globals__": {
+                                                    "border_color": "globals\/colors?id=a7e316d",
+                                                    "border_hover_color": "globals\/colors?id=f01ed3e"
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "686dd564",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "56e03ae5",
+                                                            "settings": {
+                                                                "title": "Silver",
+                                                                "header_size": "h3",
+                                                                "align": "center",
+                                                                "title_color": "#FFFFFF",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 23,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": ""
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "244cb28",
+                                                            "settings": {
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-cube",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "view": "stacked",
+                                                                "size": {
+                                                                    "unit": "px",
+                                                                    "size": 32,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "em",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "1",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "primary_color": "globals\/colors?id=f01ed3e"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "5a2a4510",
+                                                            "settings": {
+                                                                "title": "$59",
+                                                                "header_size": "div",
+                                                                "align": "center",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 50,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2"
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 38,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "54acf5e6",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d4466a1"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d452062"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "855ae7a"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_color": "#FFFFFF",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 28,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_typography": "custom",
+                                                                "icon_typography_font_family": "Montserrat",
+                                                                "icon_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_font_weight": "400",
+                                                                "icon_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.5,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_color": "globals\/colors?id=fa826c2",
+                                                                    "icon_typography_typography": "",
+                                                                    "text_color": "globals\/colors?id=fa826c2"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "5c90ff32",
+                                                            "settings": {
+                                                                "text": "Select Plan",
+                                                                "align": "center",
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-arrow-right",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "icon_align": "right",
+                                                                "icon_indent": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "button_text_color": "#FFFFFF",
+                                                                "background_color": "#F50D3200",
+                                                                "hover_animation": "float",
+                                                                "border_border": "solid",
+                                                                "border_width": {
+                                                                    "unit": "px",
+                                                                    "top": "2",
+                                                                    "right": "2",
+                                                                    "bottom": "2",
+                                                                    "left": "2",
+                                                                    "isLinked": true
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "5",
+                                                                    "right": "5",
+                                                                    "bottom": "5",
+                                                                    "left": "5",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "25",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "background_color": "",
+                                                                    "button_text_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": "",
+                                                                    "button_background_hover_color": "globals\/colors?id=f01ed3e",
+                                                                    "button_hover_border_color": "globals\/colors?id=f01ed3e"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3b556f52",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "105211c6",
+                                            "settings": {
+                                                "background_background": "classic",
+                                                "border_border": "solid",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "14",
+                                                    "bottom": "14",
+                                                    "left": "14",
+                                                    "isLinked": true
+                                                },
+                                                "border_hover_border": "solid",
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": 0,
+                                                    "bottom": "0",
+                                                    "left": 0,
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "30",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "animation": "fadeInUp",
+                                                "__globals__": {
+                                                    "border_color": "globals\/colors?id=a7e316d",
+                                                    "background_color": "globals\/colors?id=a7e316d",
+                                                    "border_hover_color": "globals\/colors?id=f01ed3e"
+                                                },
+                                                "animation_delay": 100
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "66dccd61",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6e7512be",
+                                                            "settings": {
+                                                                "title": "Gold",
+                                                                "header_size": "h3",
+                                                                "align": "center",
+                                                                "title_color": "#FFFFFF",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 23,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": ""
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "6626ef8",
+                                                            "settings": {
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-box-open",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "view": "stacked",
+                                                                "size": {
+                                                                    "unit": "px",
+                                                                    "size": 32,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "em",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "1",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "primary_color": "globals\/colors?id=f01ed3e"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "318e4949",
+                                                            "settings": {
+                                                                "title": "$99",
+                                                                "header_size": "div",
+                                                                "align": "center",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 50,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2"
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 38,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "35928db7",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d4466a1"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d452062"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "855ae7a"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_color": "#FFFFFF",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 28,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_typography": "custom",
+                                                                "icon_typography_font_family": "Montserrat",
+                                                                "icon_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_font_weight": "400",
+                                                                "icon_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.5,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_color": "globals\/colors?id=fa826c2",
+                                                                    "icon_typography_typography": "",
+                                                                    "text_color": "globals\/colors?id=fa826c2"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "29ef9ada",
+                                                            "settings": {
+                                                                "text": "Select Plan",
+                                                                "align": "center",
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-arrow-right",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "icon_align": "right",
+                                                                "icon_indent": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "button_text_color": "#FFFFFF",
+                                                                "background_color": "#F50D32",
+                                                                "hover_animation": "float",
+                                                                "border_border": "solid",
+                                                                "border_width": {
+                                                                    "unit": "px",
+                                                                    "top": "2",
+                                                                    "right": "2",
+                                                                    "bottom": "2",
+                                                                    "left": "2",
+                                                                    "isLinked": true
+                                                                },
+                                                                "border_color": "#F50D32",
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "5",
+                                                                    "right": "5",
+                                                                    "bottom": "5",
+                                                                    "left": "5",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "25",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "background_color": "globals\/colors?id=f01ed3e",
+                                                                    "button_text_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": "",
+                                                                    "border_color": "globals\/colors?id=f01ed3e",
+                                                                    "hover_color": "globals\/colors?id=f01ed3e",
+                                                                    "button_background_hover_color": "globals\/colors?id=fa826c2",
+                                                                    "button_hover_border_color": "globals\/colors?id=fa826c2"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "19820fa9",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "65f4177e",
+                                            "settings": {
+                                                "border_border": "solid",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": true
+                                                },
+                                                "border_hover_border": "solid",
+                                                "margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": 0,
+                                                    "bottom": "0",
+                                                    "left": 0,
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "30",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "animation": "fadeInUp",
+                                                "__globals__": {
+                                                    "border_color": "globals\/colors?id=a7e316d",
+                                                    "border_hover_color": "globals\/colors?id=f01ed3e"
+                                                },
+                                                "animation_delay": 300
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "248643bb",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "1a45f64c",
+                                                            "settings": {
+                                                                "title": "Platinum",
+                                                                "header_size": "h3",
+                                                                "align": "center",
+                                                                "title_color": "#FFFFFF",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 23,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": ""
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "26bc5703",
+                                                            "settings": {
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-boxes",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "view": "stacked",
+                                                                "size": {
+                                                                    "unit": "px",
+                                                                    "size": 32,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "em",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "1",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "primary_color": "globals\/colors?id=f01ed3e",
+                                                                    "hover_primary_color": ""
+                                                                },
+                                                                "primary_color": "#F50D32"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "6542fdb6",
+                                                            "settings": {
+                                                                "title": "$999",
+                                                                "header_size": "div",
+                                                                "align": "center",
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 50,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=fa826c2"
+                                                                },
+                                                                "typography_font_size_mobile": {
+                                                                    "unit": "px",
+                                                                    "size": 38,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                                                                    "sizes": []
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "24d47674",
+                                                            "settings": {
+                                                                "icon_list": [
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d4466a1"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "d452062"
+                                                                    },
+                                                                    {
+                                                                        "text": "Lorem ipsum dolor sit amet, samar adipiscing elit. ",
+                                                                        "selected_icon": {
+                                                                            "value": "fas fa-check-circle",
+                                                                            "library": "fa-solid"
+                                                                        },
+                                                                        "_id": "855ae7a"
+                                                                    }
+                                                                ],
+                                                                "space_between": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_color": "#FFFFFF",
+                                                                "icon_size": {
+                                                                    "unit": "px",
+                                                                    "size": 28,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_typography": "custom",
+                                                                "icon_typography_font_family": "Montserrat",
+                                                                "icon_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "icon_typography_font_weight": "400",
+                                                                "icon_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.5,
+                                                                    "sizes": []
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "icon_color": "globals\/colors?id=fa826c2",
+                                                                    "icon_typography_typography": "",
+                                                                    "text_color": "globals\/colors?id=fa826c2"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "icon-list",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "416f584b",
+                                                            "settings": {
+                                                                "text": "Select Plan",
+                                                                "align": "center",
+                                                                "selected_icon": {
+                                                                    "value": "fas fa-arrow-right",
+                                                                    "library": "fa-solid"
+                                                                },
+                                                                "icon_align": "right",
+                                                                "icon_indent": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_typography": "custom",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 14,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "500",
+                                                                "button_text_color": "#FFFFFF",
+                                                                "background_color": "#F50D3200",
+                                                                "hover_animation": "float",
+                                                                "border_border": "solid",
+                                                                "border_width": {
+                                                                    "unit": "px",
+                                                                    "top": "2",
+                                                                    "right": "2",
+                                                                    "bottom": "2",
+                                                                    "left": "2",
+                                                                    "isLinked": true
+                                                                },
+                                                                "border_radius": {
+                                                                    "unit": "px",
+                                                                    "top": "5",
+                                                                    "right": "5",
+                                                                    "bottom": "5",
+                                                                    "left": "5",
+                                                                    "isLinked": true
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "25",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "background_color": "",
+                                                                    "button_text_color": "globals\/colors?id=fa826c2",
+                                                                    "typography_typography": "",
+                                                                    "button_background_hover_color": "globals\/colors?id=f01ed3e",
+                                                                    "button_hover_border_color": "globals\/colors?id=f01ed3e"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5d0fb1f5",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "0",
+                    "bottom": "6",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=9bf6f22"
+                }
+            },
+            "elements": [
+                {
+                    "id": "7d9314cd",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7c3d702c",
+                            "settings": {
+                                "content_position": "middle",
+                                "structure": "20",
+                                "background_background": "classic",
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "4",
+                                    "right": "4",
+                                    "bottom": "4",
+                                    "left": "4",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "em",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "animation": "fadeInUp",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=a7e316d"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3a569c06",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 42.43999999999999772626324556767940521240234375
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5d523af5",
+                                            "settings": {
+                                                "title": "Discover How Design Can Help Your Business",
+                                                "align_mobile": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.399999999999999911182158029987476766109466552734375,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=fa826c2"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "41b3a649",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 57.51700000000000301270119962282478809356689453125
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "75d6a727",
+                                            "settings": {
+                                                "text": "Contact Me",
+                                                "align": "right",
+                                                "align_mobile": "justify",
+                                                "size": "md",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_weight": "500",
+                                                "hover_animation": "float",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "3",
+                                                    "right": "3",
+                                                    "bottom": "3",
+                                                    "left": "3",
+                                                    "isLinked": true
+                                                },
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "5",
+                                                    "right": "5",
+                                                    "bottom": "5",
+                                                    "left": "5",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=f01ed3e",
+                                                    "border_color": "globals\/colors?id=f01ed3e",
+                                                    "hover_color": "globals\/colors?id=f01ed3e",
+                                                    "button_background_hover_color": "globals\/colors?id=fa826c2"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=9bf6f22"
+        }
+    }
+}

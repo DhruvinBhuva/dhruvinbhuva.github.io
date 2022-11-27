@@ -1,0 +1,74 @@
+/* Start custom CSS for html, class: .elementor-element-e79f496 */.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-architecture-asset70k1 {
+  width: 492px;
+  height: 979px;
+  position: relative;
+  border-color: transparent;
+}
+.home-group1 {
+  width: 100%;
+  height: 539px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-text {
+  top: 186px;
+  color: rgba(0, 0, 0, 1);
+  width: 802px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text2 {
+  color: rgba(86, 91, 160, 1);
+  width: 802px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 1600px) {
+  .home-architecture-asset70k1 {
+    align-self: flex-start;
+  }
+  .home-text2 {
+    top: -2px;
+    right: 0px;
+  }
+}/* End custom CSS */

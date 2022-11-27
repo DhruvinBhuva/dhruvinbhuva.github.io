@@ -1,0 +1,90 @@
+{
+    "version": "0.4",
+    "title": "About Me",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "27d3d652",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 100,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "background_background": "video",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_video_link": "https:\/\/demo.detheme.com\/kaleo\/wp-content\/uploads\/sites\/120\/2020\/03\/particle.m4v",
+                "background_play_on_mobile": "yes",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#FFFFFF",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.35,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "lighten",
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "2b057d93",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "78f882da",
+                            "settings": {
+                                "editor": "<p>Hi I\u2019m Yorias, artist based in Indonesia, <br \/>check out my work in my <a href=\"#\">portfolio<\/a><br \/>I create <a href=\"#\">digital art<\/a> and <a href=\"#\">web design<\/a><br \/>I\u2019m also on <a href=\"#\">instagram<\/a> and <a href=\"#\">behance<\/a><br \/>Don\u2019t be shy, <a href=\"#\">say hi<\/a><\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Playfair Display",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 67,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "800",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

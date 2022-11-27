@@ -1,0 +1,611 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Danish - Personal Portfolio & Resume Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/wp.retenvi.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.png",
+            "source": "templates\/homepage.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "about",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Detail",
+            "screenshot": "screenshots\/portfolio-detail.png",
+            "source": "templates\/portfolio-detail.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog single",
+            "screenshot": "screenshots\/blog-single.png",
+            "source": "templates\/blog-single.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/blog-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.png",
+            "source": "templates\/portfolio.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/wp.retenvi.com\/rasdamz\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Press Elements - Widgets for Elementor",
+            "version": "1.7.2",
+            "file": "press-elements\/press-elements.php",
+            "author": "Press Elements"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.2.1",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Image Hover Effects - Elementor Addon",
+            "version": "1.3.1",
+            "file": "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php",
+            "author": "Blocksera"
+        },
+        {
+            "name": "JetSticky For Elementor",
+            "version": "1.0.1",
+            "file": "jetsticky-for-elementor\/jetsticky-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.3",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Post Grid Elementor Addon",
+            "version": "1.0.7",
+            "file": "post-grid-elementor-addon\/post-grid-elementor-addon.php",
+            "author": "wpconcern"
+        }
+    ],
+    "images": [
+        {
+            "filename": "ornament3.png",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/ornament3.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8564,
+            "dimensions": [
+                508,
+                396
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-banner.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/hero-banner-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/blog-single.json",
+                    "name": "Blog single"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 208463,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hacker-shoot-PHD3XCE"
+        },
+        {
+            "filename": "dot2.png",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/dot2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 2125,
+            "dimensions": [
+                130,
+                214
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "ornament.png",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/ornament.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 1638,
+            "dimensions": [
+                262,
+                262
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "my-profile.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/my-profile.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 60849,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-young-man-with-beard-and-hat-PJ3QMH9"
+        },
+        {
+            "filename": "ornament1.png",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/ornament1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 653,
+            "dimensions": [
+                66,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "ornament2.png",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/ornament2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9196,
+            "dimensions": [
+                445,
+                336
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "project-img-5.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-5-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 103235,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/wehe-1-creative-web-header-psd-template-PV4RQJ8"
+        },
+        {
+            "filename": "project-img-6.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/blog-single.json",
+                    "name": "Blog single"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 92341,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pepo-personal-portfolio-psd-template-8-3BG2EW4"
+        },
+        {
+            "filename": "project-img-1.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 132871,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/shopping-apps-app-design-template-CNMLEZ6"
+        },
+        {
+            "filename": "project-img-2.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-2-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/blog-single.json",
+                    "name": "Blog single"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 84999,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pepo-personal-portfolio-psd-template-1-NZ2Y5SY"
+        },
+        {
+            "filename": "teamwork-2.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/teamwork-2-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 155564,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-designer-discussing-blueprint-with-male-c-V63J5DS"
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 108433,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-with-beard-laughing-with-arms-crossed-HD5PNZH"
+        },
+        {
+            "filename": "testimonial-1.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/testimonial-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "about"
+                }
+            ],
+            "filesize": 82163,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-modern-guy-holding-hat-PLS4VWN"
+        },
+        {
+            "filename": "project-img-4.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-4-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 138356,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/minance-finance-business-psd-template-WNPAU4W"
+        },
+        {
+            "filename": "project-img-7.jpg",
+            "thumbnail_url": "http:\/\/wp.retenvi.com\/rasdamz\/wp-content\/uploads\/sites\/9\/2020\/11\/project-img-7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 95070,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pepo-personal-portfolio-psd-template-5-QCSYA2C"
+        }
+    ]
+}

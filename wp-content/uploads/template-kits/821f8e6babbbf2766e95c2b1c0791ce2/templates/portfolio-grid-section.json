@@ -1,0 +1,127 @@
+{
+    "version": "0.4",
+    "title": "Portfolio Grid Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "3a06569d",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "140",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "cd0d1f6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2404fcb9",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 642,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/fashion.jpg"
+                                    },
+                                    {
+                                        "id": 678,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/female-hand-with-a-retro-camera.jpg"
+                                    },
+                                    {
+                                        "id": 465,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/ian-dooley-TLD6iCOlyb0-unsplash-scaled.jpg"
+                                    },
+                                    {
+                                        "id": 112,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/f37dd7a6f0e4e4ddc05a0da9745f66d8c18d878c.png"
+                                    },
+                                    {
+                                        "id": 89,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/80870f3d88f6afe582e70739291f2ee1cc516d1a.png"
+                                    },
+                                    {
+                                        "id": 91,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/999155f7702869a3ff04aebf2f6fd0707805cb73.png"
+                                    },
+                                    {
+                                        "id": 87,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/3620c2a54902bc0c26e3e945e242825f52b72969.png"
+                                    },
+                                    {
+                                        "id": 101,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/bbeec36e7d1b9f0e42ab1dcefc3abc69ecc52995.png"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "d2b99ac",
+                                        "multiple_gallery": []
+                                    }
+                                ],
+                                "columns": 2,
+                                "ideal_row_height": {
+                                    "unit": "px",
+                                    "size": 500,
+                                    "sizes": []
+                                },
+                                "thumbnail_image_size": "large",
+                                "show_all_galleries_label": "All",
+                                "overlay_title": "caption",
+                                "overlay_background_background": "classic",
+                                "overlay_background_hover_color": "rgba(0, 43, 220, 0.69)",
+                                "title_color": "#FFFFFF",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "500"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

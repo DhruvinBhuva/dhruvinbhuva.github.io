@@ -1,0 +1,636 @@
+{
+    "version": "0.4",
+    "title": "Section \u2013 Portfolio Masonry Fullwidth",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "89b243d",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "layout": "full_width",
+                "content_width": {
+                    "unit": "px",
+                    "size": 1600,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#2B2A2A",
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "730c5aad",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4d4e307f",
+                            "settings": {
+                                "eael_fg_items_to_show": "12",
+                                "eael_fg_filter_duration": 500,
+                                "eael_fg_grid_style": "masonry",
+                                "eael_fg_grid_item_height": "300",
+                                "eael_section_fg_zoom_icon_new": {
+                                    "value": "icon icon-magnifying-glass-search",
+                                    "library": "ekiticons"
+                                },
+                                "eael_section_fg_link_icon_new": {
+                                    "value": "icon icon-share-1",
+                                    "library": "ekiticons"
+                                },
+                                "eael_fg_all_label_text": "All",
+                                "eael_fg_controls": [
+                                    {
+                                        "eael_fg_control": "Fashion",
+                                        "_id": "a7a8fa2"
+                                    },
+                                    {
+                                        "eael_fg_control": "Wedding",
+                                        "_id": "376b1f5"
+                                    },
+                                    {
+                                        "eael_fg_control": "Event",
+                                        "_id": "374ad19"
+                                    },
+                                    {
+                                        "eael_fg_control": "Business",
+                                        "_id": "9aed9c9"
+                                    },
+                                    {
+                                        "eael_fg_control": "Personal",
+                                        "_id": "61f49a6"
+                                    }
+                                ],
+                                "eael_fg_gallery_items": [
+                                    {
+                                        "eael_fg_gallery_item_name": "Personal Photography",
+                                        "_id": "3c0d8b3",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Personal",
+                                        "fg_item_price_switch": "",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/photographer-using-a-vintage-camera.jpg",
+                                            "id": 275
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Fashion Photography",
+                                        "_id": "c2c390b",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Fashion",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/beautiful-girl-in-black-hat.jpg",
+                                            "id": 242
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Business Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Business",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/tattoo-artist-tattooing-young-woman.jpg",
+                                            "id": 281
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "4d2e263"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Event Photography",
+                                        "_id": "66c0173",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Event",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/cyclist-riding-along-a-mountain-road-PEUHHQ7.jpg",
+                                            "id": 332
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Wedding Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Wedding",
+                                        "fg_item_price_switch": "",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/married-bride-and-groom-dancing.jpg",
+                                            "id": 287
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "77b9cfa"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Personal Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Personal",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/monochrome-portrait-of-amazing-romantic-woman-leaning-on-piano.jpg",
+                                            "id": 241
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "e76f9bb"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Business Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Business",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/vintage-motorcycle-cafe-racer-style-6XSNBAD.jpg",
+                                            "id": 313
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "87c3022"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Wedding Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Wedding",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/turkish-wedding.jpg",
+                                            "id": 292
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "27ee989"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Fashion Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Fashion",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/woman-journalist-shoot.jpg",
+                                            "id": 282
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "0a8e9cc"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Business Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Business",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/statue-of-liberty-black-and-white-with-black-sky-in-new-york.jpg",
+                                            "id": 464
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "9ccf0ec"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Event Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Event",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/cyclist-riding-along-a-mountain-road-PEUHHQ7.jpg",
+                                            "id": 332
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "097bc10"
+                                    },
+                                    {
+                                        "eael_fg_gallery_item_name": "Event Photography",
+                                        "fg_video_gallery_switch": "",
+                                        "eael_fg_gallery_item_video_link": "https:\/\/www.youtube.com\/watch?v=kB4U67tiQLA",
+                                        "eael_fg_gallery_control_name": "Event",
+                                        "fg_item_price_switch": "false",
+                                        "fg_item_price": "$20.00",
+                                        "fg_item_ratings_switch": "false",
+                                        "fg_item_ratings": "5",
+                                        "fg_item_cat_switch": "false",
+                                        "fg_item_cat": "Essential Addons",
+                                        "eael_fg_gallery_item_content": "",
+                                        "eael_fg_gallery_img": {
+                                            "url": "https:\/\/templatekit.jegtheme.com\/pixelate\/wp-content\/uploads\/sites\/9\/2020\/08\/enlightenment_t20_O0Pg02.jpg",
+                                            "id": 410
+                                        },
+                                        "fg_video_gallery_play_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "eael_fg_gallery_lightbox": "true",
+                                        "eael_fg_gallery_link": "true",
+                                        "eael_fg_gallery_img_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "3794b62"
+                                    }
+                                ],
+                                "pagination": "",
+                                "images_per_page": 6,
+                                "load_more_text": "Load More",
+                                "nomore_items_text": "No more items!",
+                                "eael_fg_border_radius": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "eael_fg_control_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "20",
+                                    "bottom": "10",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "eael_fg_control_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_fg_control_typography_typography": "custom",
+                                "eael_fg_control_typography_font_family": "Heebo",
+                                "eael_fg_control_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "eael_fg_control_typography_font_weight": "300",
+                                "eael_fg_control_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "eael_fg_control_normal_text_color": "#8B8B8B",
+                                "eael_fg_control_normal_border_radius": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "eael_fg_control_active_text_color": "#FFFFFF",
+                                "eael_fg_control_active_bg_color": "#715C41",
+                                "eael_fg_item_container_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "eael_fg_item_cap_bg_color": "#000000",
+                                "eael_fg_item_hover_title_color": "#FFFFFF",
+                                "eael_fg_item_hover_title_typography_typography": "custom",
+                                "eael_fg_item_hover_title_typography_font_family": "Prata",
+                                "eael_fg_item_hover_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "eael_fg_item_hover_title_typography_font_weight": "400",
+                                "eael_fg_item_hoverer_content_alignment": "center",
+                                "eael_fg_video_item_icon_hover_scale": "1.1",
+                                "eael_fg_item_icon_bg_color": "#715C41",
+                                "eael_fg_item_icon_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_fg_item_icon_bg_color_hover": "#D1C8BB",
+                                "eael_fg_item_icon_color_hover": "#252525",
+                                "fg_sf_placeholder": "Search Gallery Item...",
+                                "eael_fg_item_icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "eael_fg_bg_color": "",
+                                "columns_tablet": "3",
+                                "eael_fg_control_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "10",
+                                    "bottom": "5",
+                                    "left": "10",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-filterable-gallery",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1d8763d",
+                            "settings": {
+                                "text": "View More",
+                                "align": "center",
+                                "size": "md",
+                                "selected_icon": {
+                                    "value": "icon icon-right-arrow1",
+                                    "library": "ekiticons"
+                                },
+                                "icon_align": "right",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Heebo",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "300",
+                                "typography_text_transform": "uppercase",
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "button_text_color": "#FFFFFF",
+                                "background_color": "#715C41",
+                                "hover_color": "#252525",
+                                "button_background_hover_color": "#D1C8BB",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "40",
+                                    "bottom": "20",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "text_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "25",
+                                    "bottom": "15",
+                                    "left": "25",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

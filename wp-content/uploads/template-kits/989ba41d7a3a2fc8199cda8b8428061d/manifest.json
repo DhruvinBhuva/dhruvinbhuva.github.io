@@ -1,0 +1,1843 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Noemi",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.detheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Menu",
+            "screenshot": "screenshots\/menu.png",
+            "source": "templates\/menu.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=menu",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Offcanvas II",
+            "screenshot": "screenshots\/offcanvas-ii.jpg",
+            "source": "templates\/offcanvas-ii.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=offcanvas-ii",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Optin Popup I",
+            "screenshot": "screenshots\/optin-popup-i.png",
+            "source": "templates\/optin-popup-i.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=optin-popup-i",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=single-post-2",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Style guide",
+            "screenshot": "screenshots\/style-guide.jpg",
+            "source": "templates\/style-guide.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/style-guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Get in Touch",
+            "screenshot": "screenshots\/get-in-touch.jpg",
+            "source": "templates\/get-in-touch.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/get-in-touch\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "What We Do",
+            "screenshot": "screenshots\/what-we-do.jpg",
+            "source": "templates\/what-we-do.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/what-we-do\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolios - Standard",
+            "screenshot": "screenshots\/portfolios-standard.jpg",
+            "source": "templates\/portfolios-standard.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/portfolios\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolios - Masonry",
+            "screenshot": "screenshots\/portfolios-masonry.jpg",
+            "source": "templates\/portfolios-masonry.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/portfolios-masonry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolios - Metro",
+            "screenshot": "screenshots\/portfolios-metro.jpg",
+            "source": "templates\/portfolios-metro.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/template-kit\/portfolios-metro\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.detheme.com\/noemi\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.4.3",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.12",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "designers-are-working-on-a-drawing-tablet-and-lapt-N5L3TNC.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/designers-are-working-on-a-drawing-tablet-and-lapt-N5L3TNC-600x346.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 492875,
+            "dimensions": [
+                1734,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N5L3TNC"
+        },
+        {
+            "filename": "olive-oil-glass-bottle-mock-up-top-view-JWCB8J3.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/olive-oil-glass-bottle-mock-up-top-view-JWCB8J3-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 260293,
+            "dimensions": [
+                1700,
+                2266
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JWCB8J3"
+        },
+        {
+            "filename": "cold-brew-tea-branding-mockup-set-with-tea-leaf-RYQYZZB.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/cold-brew-tea-branding-mockup-set-with-tea-leaf-RYQYZZB-600x442.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                }
+            ],
+            "filesize": 191087,
+            "dimensions": [
+                2000,
+                1472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RYQYZZB"
+        },
+        {
+            "filename": "nature-PH6Q74L.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/nature-PH6Q74L-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 212660,
+            "dimensions": [
+                1200,
+                1797
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PH6Q74L"
+        },
+        {
+            "filename": "woman-face-covered-with-notepad-on-white-backgroun-PBL7UYR.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/woman-face-covered-with-notepad-on-white-backgroun-PBL7UYR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 124322,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBL7UYR"
+        },
+        {
+            "filename": "Ideation.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Ideation.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 18990,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "arrow-1.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/arrow-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 470,
+            "dimensions": [
+                500,
+                19
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "Research.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Research.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 11081,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "Mockups.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Mockups.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3035,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "delivery.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/delivery.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 5681,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "eco-friendly-tableware-for-food-with-green-leaves-ZRK6BK6.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/eco-friendly-tableware-for-food-with-green-leaves-ZRK6BK6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 430893,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZRK6BK6"
+        },
+        {
+            "filename": "disposable-tableware-from-natural-materials-wooden-YR2QRG3.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/disposable-tableware-from-natural-materials-wooden-YR2QRG3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 439300,
+            "dimensions": [
+                1798,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YR2QRG3"
+        },
+        {
+            "filename": "fear-or-the-blank-page-and-lack-of-creativity-RXWMA38.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/fear-or-the-blank-page-and-lack-of-creativity-RXWMA38-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 498630,
+            "dimensions": [
+                1600,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RXWMA38"
+        },
+        {
+            "filename": "fresh-idea-PQFMFYM.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/fresh-idea-PQFMFYM-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 348040,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQFMFYM"
+        },
+        {
+            "filename": "3d-illustration-row-of-light-bulbs-with-one-of-dif-36TJNRP.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/3d-illustration-row-of-light-bulbs-with-one-of-dif-36TJNRP-600x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 226079,
+            "dimensions": [
+                1600,
+                1185
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-36TJNRP"
+        },
+        {
+            "filename": "african-american-businessman-laughing-with-a-colle-T355GF9.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/african-american-businessman-laughing-with-a-colle-T355GF9-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 476998,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T355GF9"
+        },
+        {
+            "filename": "face-of-happy-young-beautiful-indian-muslim-woman-ABU3AUA.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/face-of-happy-young-beautiful-indian-muslim-woman-ABU3AUA-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 389408,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ABU3AUA"
+        },
+        {
+            "filename": "portrait-of-a-smiling-man-wearing-a-hat-standing-i-R2UM9MY.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/portrait-of-a-smiling-man-wearing-a-hat-standing-i-R2UM9MY-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 340841,
+            "dimensions": [
+                666,
+                799
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2UM9MY"
+        },
+        {
+            "filename": "zebra-5TEK339.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/zebra-5TEK339-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 306125,
+            "dimensions": [
+                2000,
+                1337
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5TEK339"
+        },
+        {
+            "filename": "isometric-mockup-composition-of-yellow-school-supp-W4UFD32.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/isometric-mockup-composition-of-yellow-school-supp-W4UFD32-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 333353,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W4UFD32"
+        },
+        {
+            "filename": "cosmetic-TPSHF5Y.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/cosmetic-TPSHF5Y-600x222.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 121854,
+            "dimensions": [
+                2000,
+                740
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TPSHF5Y"
+        },
+        {
+            "filename": "Asset-16.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 11463,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-14.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-14-600x288.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 12810,
+            "dimensions": [
+                1252,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "sepia-photo-portrait-of-a-stylish-man-in-profile-w-592LJB3.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/sepia-photo-portrait-of-a-stylish-man-in-profile-w-592LJB3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 88887,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-592LJB3"
+        },
+        {
+            "filename": "top-view-of-red-ceramic-plate-saucer-on-yellow-bac-8W2X7T6.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/top-view-of-red-ceramic-plate-saucer-on-yellow-bac-8W2X7T6-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 116289,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8W2X7T6"
+        },
+        {
+            "filename": "a-lot-of-chili-peppers-on-a-kitchen-table-top-view-MC2X8WH.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/a-lot-of-chili-peppers-on-a-kitchen-table-top-view-MC2X8WH-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 255517,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MC2X8WH"
+        },
+        {
+            "filename": "cotton-bags-glass-jar-bottle-2AZHBMT.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/cotton-bags-glass-jar-bottle-2AZHBMT-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 183093,
+            "dimensions": [
+                1000,
+                1498
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2AZHBMT"
+        },
+        {
+            "filename": "light-1.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/light-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2241,
+            "dimensions": [
+                248,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "creative-office-PR22NE6.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/creative-office-PR22NE6-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/optin-popup-i.json",
+                    "name": "Optin Popup I"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 461541,
+            "dimensions": [
+                1498,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR22NE6"
+        },
+        {
+            "filename": "minimal-interior-with-furniture-P8X647W.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/minimal-interior-with-furniture-P8X647W-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 197866,
+            "dimensions": [
+                2200,
+                1466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8X647W"
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/placeholder.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 196,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/placeholder-1-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "greeting-at-post-pandemic-office-DW3G4G2.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/greeting-at-post-pandemic-office-DW3G4G2-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 409877,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DW3G4G2"
+        },
+        {
+            "filename": "creative-coworkers-working-in-office-CWJ7FRB.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/creative-coworkers-working-in-office-CWJ7FRB-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 411419,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CWJ7FRB"
+        },
+        {
+            "filename": "outdoor-head-and-shoulders-portrait-of-smiling-man-PDBUTYH.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/outdoor-head-and-shoulders-portrait-of-smiling-man-PDBUTYH-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 429825,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDBUTYH"
+        },
+        {
+            "filename": "smiling-man-with-headphones-standing-with-arms-cro-KPDATRL.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/smiling-man-with-headphones-standing-with-arms-cro-KPDATRL-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 402517,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KPDATRL"
+        },
+        {
+            "filename": "portrait-of-smiling-woman-relaxing-on-sofa-at-home-WM62DZV.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/portrait-of-smiling-woman-relaxing-on-sofa-at-home-WM62DZV-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 354312,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WM62DZV"
+        },
+        {
+            "filename": "man-holding-an-ipad-at-work-smiling-and-wearing-a-UH4F9J9.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/man-holding-an-ipad-at-work-smiling-and-wearing-a-UH4F9J9-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 485298,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UH4F9J9"
+        },
+        {
+            "filename": "portrait-of-man-sittin-on-the-beach-in-a-coat-XYV2AU6.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/portrait-of-man-sittin-on-the-beach-in-a-coat-XYV2AU6-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                }
+            ],
+            "filesize": 448795,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XYV2AU6"
+        },
+        {
+            "filename": "smiling-laughing-young-business-team-cropped-XMX7LVF.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/smiling-laughing-young-business-team-cropped-XMX7LVF-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                }
+            ],
+            "filesize": 366807,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XMX7LVF"
+        },
+        {
+            "filename": "smiling-man-in-casual-clothes-PZXBCLY.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/smiling-man-in-casual-clothes-PZXBCLY-600x720.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                }
+            ],
+            "filesize": 397350,
+            "dimensions": [
+                1000,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZXBCLY"
+        },
+        {
+            "filename": "girl-covering-face-with-white-boards-set-of-painte-PJ3MXZZ.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/girl-covering-face-with-white-boards-set-of-painte-PJ3MXZZ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/what-we-do.json",
+                    "name": "What We Do"
+                }
+            ],
+            "filesize": 273162,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJ3MXZZ"
+        },
+        {
+            "filename": "ecological-electric-car-on-white-background-NXKSYEL.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/ecological-electric-car-on-white-background-NXKSYEL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-masonry.json",
+                    "name": "Portfolios - Masonry"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 386788,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NXKSYEL"
+        },
+        {
+            "filename": "email-us.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/email-us.png",
+            "templates": [
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 10679,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "working-hours.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/working-hours.png",
+            "templates": [
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 27156,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "call-us.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/call-us.png",
+            "templates": [
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 19747,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "address.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/address.png",
+            "templates": [
+                {
+                    "source": "templates\/get-in-touch.json",
+                    "name": "Get in Touch"
+                }
+            ],
+            "filesize": 22496,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "greeting-at-post-pandemic-workplace-F45NYZ5.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/greeting-at-post-pandemic-workplace-F45NYZ5-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 456816,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F45NYZ5"
+        },
+        {
+            "filename": "balloon.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/balloon.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17452,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "chart-pie.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/chart-pie.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17858,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "heart-pencil.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/heart-pencil.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15474,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "pen-book.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/pen-book.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4535,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "pallette.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/pallette.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18337,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "hand-grow.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/hand-grow.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15512,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "brain-bulb.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/brain-bulb.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15400,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "striped-grey-carpet-PK3HTDE-1.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/striped-grey-carpet-PK3HTDE-1-600x244.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 113245,
+            "dimensions": [
+                2000,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK3HTDE"
+        },
+        {
+            "filename": "african-american-businessman-laughing-with-a-colle-full-T355GF9.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/african-american-businessman-laughing-with-a-colle-full-T355GF9-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                }
+            ],
+            "filesize": 403038,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T355GF9"
+        },
+        {
+            "filename": "eucalyptus-bouquet-creating-with-baby-blue-eucalyp-8W7J5N9.jpg",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/eucalyptus-bouquet-creating-with-baby-blue-eucalyp-8W7J5N9-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-standard.json",
+                    "name": "Portfolios - Standard"
+                },
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 443332,
+            "dimensions": [
+                1800,
+                1202
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8W7J5N9"
+        },
+        {
+            "filename": "Antonin-Scalia-Signature-2016021501.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Antonin-Scalia-Signature-2016021501-600x245.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 32398,
+            "dimensions": [
+                1000,
+                408
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/publicdomainvectors.org\/id\/bebas-vektor\/Antonin-Scalia-tanda-tangan\/61791.html"
+        },
+        {
+            "filename": "Asset-15.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-15-600x142.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 32601,
+            "dimensions": [
+                2535,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-13.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-13-600x225.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 32473,
+            "dimensions": [
+                1599,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-11.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-11-600x184.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 27769,
+            "dimensions": [
+                1956,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-12.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-12.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 23907,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-9.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-9-600x283.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 19254,
+            "dimensions": [
+                1270,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "Asset-10.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/Asset-10.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolios-metro.json",
+                    "name": "Portfolios - Metro"
+                }
+            ],
+            "filesize": 19762,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/60-minimalist-logos-Z3UDK6"
+        },
+        {
+            "filename": "dark-2.png",
+            "thumbnail_url": "https:\/\/kit.detheme.com\/noemi\/wp-content\/uploads\/sites\/23\/2020\/10\/dark-2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2151,
+            "dimensions": [
+                248,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

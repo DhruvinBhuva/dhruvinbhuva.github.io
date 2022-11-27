@@ -1,0 +1,176 @@
+{
+    "version": "0.4",
+    "title": "Photo Gallery Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "12f00430",
+            "settings": {
+                "layout": "full_width",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "-12",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "217cdba1",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "align": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "18dcb143",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "instagram",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "ef526b3",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    }
+                                ],
+                                "text_color": "#2B2B2B",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "icon_typography_font_weight": "500",
+                                "icon_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "60",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "_element_vertical_align": "flex-end",
+                                "icon_align": "center",
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5912222e",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 110,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/eb07e998a3d2b23551e100a9a821e2527efb8082.png"
+                                    },
+                                    {
+                                        "id": 111,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/ecb355755671d32624c4b0c27694eb6539d9c495.png"
+                                    },
+                                    {
+                                        "id": 102,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/c0a85b013393ca00d62bbc3a3c6bb22e12544610.png"
+                                    },
+                                    {
+                                        "id": 104,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/cc2319c94fdb10fd65ef1c08d8b7ef3067f981a4.png"
+                                    },
+                                    {
+                                        "id": 89,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/80870f3d88f6afe582e70739291f2ee1cc516d1a.png"
+                                    },
+                                    {
+                                        "id": 642,
+                                        "url": "https:\/\/proto.elipso.site\/wp-content\/uploads\/sites\/6\/2020\/07\/fashion.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "1b0aa44",
+                                        "multiple_gallery": []
+                                    }
+                                ],
+                                "columns": 6,
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "aspect_ratio": "1:1",
+                                "thumbnail_image_size": "medium_large",
+                                "show_all_galleries_label": "All",
+                                "overlay_title": "caption",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "image_hover_animation": "grow",
+                                "overlay_background_background": "classic",
+                                "overlay_background_hover_color": "rgba(0, 43, 220, 0.55)",
+                                "content_vertical_position": "middle",
+                                "content_padding": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "400",
+                                "title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

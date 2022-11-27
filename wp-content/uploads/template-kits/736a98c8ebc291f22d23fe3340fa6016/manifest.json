@@ -1,0 +1,1440 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "FLO - Creative Portfolio & Resume Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog \u2013 with sidebar",
+            "screenshot": "screenshots\/blog-with-sidebar.jpg",
+            "source": "templates\/blog-with-sidebar.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/blog-with-sidebar\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo \u2013 Search popup",
+            "screenshot": "screenshots\/flo-search-popup.jpg",
+            "source": "templates\/flo-search-popup.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-search-popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo \u2013 Archive",
+            "screenshot": "screenshots\/flo-archive.jpg",
+            "source": "templates\/flo-archive.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-category",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo \u2013 Post single 1 \u2013 with sidebar",
+            "screenshot": "screenshots\/flo-post-single-1-with-sidebar.jpg",
+            "source": "templates\/flo-post-single-1-with-sidebar.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-post-single-1-with-sidebar",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/in_post_tag\/14"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: In Tag #14."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo \u2013 Post single 1",
+            "screenshot": "screenshots\/flo-post-single-1.jpg",
+            "source": "templates\/flo-post-single-1.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-post-single-1",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular",
+                    "exclude\/singular\/in_post_tag\/14"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo &#8211; Footer 1",
+            "screenshot": "screenshots\/flo-8211-footer-1.jpg",
+            "source": "templates\/flo-8211-footer-1.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-footer-1",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo &#8211; Header 1",
+            "screenshot": "screenshots\/flo-8211-header-1.jpg",
+            "source": "templates\/flo-8211-header-1.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-header-1",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Common elements",
+            "screenshot": "screenshots\/common-elements.jpg",
+            "source": "templates\/common-elements.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/common-elements\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Minimal",
+            "screenshot": "screenshots\/blog-minimal.jpg",
+            "source": "templates\/blog-minimal.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/blog-minimal\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.jpg",
+            "source": "templates\/project-details.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/template-kit\/project-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Flo &#8211; Full screen menu",
+            "screenshot": "screenshots\/flo-8211-full-screen-menu.jpg",
+            "source": "templates\/flo-8211-full-screen-menu.json",
+            "preview_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/?elementor_library=flo-full-screen-menu",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "header-bg.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/header-bg-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-with-sidebar.json",
+                    "name": "Blog \u2013 with sidebar"
+                },
+                {
+                    "source": "templates\/flo-archive.json",
+                    "name": "Flo \u2013 Archive"
+                },
+                {
+                    "source": "templates\/flo-post-single-1-with-sidebar.json",
+                    "name": "Flo \u2013 Post single 1 \u2013 with sidebar"
+                },
+                {
+                    "source": "templates\/flo-post-single-1.json",
+                    "name": "Flo \u2013 Post single 1"
+                },
+                {
+                    "source": "templates\/common-elements.json",
+                    "name": "Common elements"
+                },
+                {
+                    "source": "templates\/blog-minimal.json",
+                    "name": "Blog Minimal"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 76638,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-minimalist-backgrounds-2-G4GL56Y"
+        },
+        {
+            "filename": "content-img-02.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/content-img-02-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-with-sidebar.json",
+                    "name": "Blog \u2013 with sidebar"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 171591,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-on-smiling-male-in-denim-shirt-and-beard-VGPQXDA"
+        },
+        {
+            "filename": "portfolio-img-10.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-10-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/flo-archive.json",
+                    "name": "Flo \u2013 Archive"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 204179,
+            "dimensions": [
+                1600,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/lotion-psd-bottle-cosmetic-mockup"
+        },
+        {
+            "filename": "half-bg-01-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/half-bg-01-1-600x810.jpg",
+            "templates": [
+                {
+                    "source": "templates\/flo-post-single-1-with-sidebar.json",
+                    "name": "Flo \u2013 Post single 1 \u2013 with sidebar"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 220526,
+            "dimensions": [
+                800,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-on-smiling-male-in-denim-shirt-and-beard-VGPQXDA"
+        },
+        {
+            "filename": "main-img.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/main-img-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/flo-8211-footer-1.json",
+                    "name": "Flo &#8211; Footer 1"
+                },
+                {
+                    "source": "templates\/flo-8211-header-1.json",
+                    "name": "Flo &#8211; Header 1"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/flo-8211-full-screen-menu.json",
+                    "name": "Flo &#8211; Full screen menu"
+                }
+            ],
+            "filesize": 233977,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-on-bearded-man-holding-black-jacket-PFK2F7L"
+        },
+        {
+            "filename": "icon-home.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/flo-8211-header-1.json",
+                    "name": "Flo &#8211; Header 1"
+                }
+            ],
+            "filesize": 7624,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/cdn.materialdesignicons.com\/2.7.94\/"
+        },
+        {
+            "filename": "icon-search.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-search.png",
+            "templates": [
+                {
+                    "source": "templates\/flo-8211-header-1.json",
+                    "name": "Flo &#8211; Header 1"
+                }
+            ],
+            "filesize": 10615,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/cdn.materialdesignicons.com\/2.7.94\/"
+        },
+        {
+            "filename": "icon-menu.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-menu.png",
+            "templates": [
+                {
+                    "source": "templates\/flo-8211-header-1.json",
+                    "name": "Flo &#8211; Header 1"
+                }
+            ],
+            "filesize": 3257,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/cdn.materialdesignicons.com\/2.7.94\/"
+        },
+        {
+            "filename": "portfolio-img-01.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-01-600x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 383522,
+            "dimensions": [
+                1600,
+                1231
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-invitation-mockup-set"
+        },
+        {
+            "filename": "portfolio-img-12.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-12-600x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 125928,
+            "dimensions": [
+                1600,
+                1231
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-project-devices-showcase-vol3"
+        },
+        {
+            "filename": "portfolio-img-14.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-14-600x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 219012,
+            "dimensions": [
+                1600,
+                1231
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/quad-fold-psd-brochure-mockup"
+        },
+        {
+            "filename": "portfolio-img-15.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-15-600x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 233602,
+            "dimensions": [
+                1600,
+                1231
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-hardcover-book-catalog-mockup-2"
+        },
+        {
+            "filename": "bg-01.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/bg-01-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 195882,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9l_326FISzk"
+        },
+        {
+            "filename": "icon-light-idea.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-idea.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 18750,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-design1.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-design1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 12449,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-code.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-code.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 9718,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-quality.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-quality.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 23770,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "smoke-bg-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/smoke-bg-1-600x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 189856,
+            "dimensions": [
+                1600,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pazM9TQJ2Ck"
+        },
+        {
+            "filename": "portfolio-img-04.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-04-600x497.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 273642,
+            "dimensions": [
+                1600,
+                1325
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-half-fold-brochure-mockup-us-a4"
+        },
+        {
+            "filename": "portfolio-img-05.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-05-600x501.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 349140,
+            "dimensions": [
+                1600,
+                1337
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/open-square-psd-catalog-mockup"
+        },
+        {
+            "filename": "portfolio-img-03.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-03-600x546.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 133485,
+            "dimensions": [
+                1600,
+                1455
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/gravity-psd-invitation-mockup"
+        },
+        {
+            "filename": "portfolio-img-06.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-06-600x476.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 371311,
+            "dimensions": [
+                1600,
+                1269
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-kraft-notebook-set-mockup"
+        },
+        {
+            "filename": "portfolio-img-07.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-07-600x452.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 208036,
+            "dimensions": [
+                1600,
+                1206
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-stand-up-pouch-packaging-mockup-2"
+        },
+        {
+            "filename": "portfolio-img-13.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-13-600x568.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 123469,
+            "dimensions": [
+                1600,
+                1514
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/gravity-psd-devices-ui-mockup-set-v7"
+        },
+        {
+            "filename": "testimonial-img-01.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/testimonial-img-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 37919,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "testimonial-img-02.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/testimonial-img-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 34002,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "testimonial-img-03.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/testimonial-img-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 32847,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8540,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8149,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8623,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 9490,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-05.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 9933,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-06.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/logo-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8307,
+            "dimensions": [
+                500,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-03.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/bg-03-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 248670,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-man-wearing-sunglasses-carrying-a-jacket-o-ZBEXLCN"
+        },
+        {
+            "filename": "content-img-01-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/content-img-01-1-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70348,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/vjMgqUkS8q8"
+        },
+        {
+            "filename": "content-img-07.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/content-img-07-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 114045,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-cup-with-steam-clouds-and-birds-46XVPQR"
+        },
+        {
+            "filename": "content-img-05.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/content-img-05-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 87051,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-interior-with-furniture-P8X647W"
+        },
+        {
+            "filename": "half-bg-02.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/half-bg-02-600x810.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 215957,
+            "dimensions": [
+                800,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bearded-man-in-blue-denim-shirt-with-hand-on-head-CQANLUR"
+        },
+        {
+            "filename": "icon-light-web.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-web.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 31936,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-mobile.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-mobile.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 5749,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-digital-marketing.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-digital-marketing.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 21294,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "icon-light-design.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-light-design.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8177,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "half-bg-03.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/half-bg-03-600x675.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 170736,
+            "dimensions": [
+                960,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bearded-handsome-man-with-big-smile-P56FMTY"
+        },
+        {
+            "filename": "bg-02.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/bg-02-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 227055,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ujhKqutt3f0"
+        },
+        {
+            "filename": "portfolio-img-09.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-09-600x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 308953,
+            "dimensions": [
+                1600,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/psd-hardcover-book-catalog-mockup-3"
+        },
+        {
+            "filename": "icon-experience-light.png",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/icon-experience-light.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 11318,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-icons-BSK3HF"
+        },
+        {
+            "filename": "portfolio-img-16.jpg",
+            "thumbnail_url": "http:\/\/templatekits.c-kav.com\/demo2\/flo\/wp-content\/uploads\/sites\/5\/2020\/04\/portfolio-img-16-600x494.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 125491,
+            "dimensions": [
+                1600,
+                1316
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pixeden.com\/psd-mock-up-templates\/stand-up-psd-pouch-packaging-mockup"
+        }
+    ]
+}

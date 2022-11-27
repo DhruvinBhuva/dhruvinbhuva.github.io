@@ -1,0 +1,1553 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Parto Web",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial Block for Home 01",
+            "screenshot": "screenshots\/testimonial-block-for-home-01.jpg",
+            "source": "templates\/testimonial-block-for-home-01.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/testimonial-block-for-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial Block for Home 02",
+            "screenshot": "screenshots\/testimonial-block-for-home-02.jpg",
+            "source": "templates\/testimonial-block-for-home-02.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/testimonial-block-for-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Page Contact",
+            "screenshot": "screenshots\/form-page-contact.jpg",
+            "source": "templates\/form-page-contact.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/form-page-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Panel Block For Header",
+            "screenshot": "screenshots\/panel-block-for-header.jpg",
+            "source": "templates\/panel-block-for-header.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/panel-block-for-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/home-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Style",
+            "screenshot": "screenshots\/services-style.jpg",
+            "source": "templates\/services-style.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/services-style\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Projects",
+            "screenshot": "screenshots\/our-projects.jpg",
+            "source": "templates\/our-projects.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/our-projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Grid 02",
+            "screenshot": "screenshots\/project-grid-02.jpg",
+            "source": "templates\/project-grid-02.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/project-grid-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.jpg",
+            "source": "templates\/project-details.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/project-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/themesflat.com\/wordpress\/partokit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.12",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "HT Mega - Absolute Addons for Elementor Page Builder",
+            "version": "1.4.7",
+            "file": "ht-mega-for-elementor\/htmega_addons_elementor.php",
+            "author": "HasThemes"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.3.8",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.3.8",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Parto@2x.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/Parto@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1809,
+            "dimensions": [
+                186,
+                58
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-panel.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-panel.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 152,
+            "dimensions": [
+                36,
+                25
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonial-person-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/testimonial-person-01.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block-for-home-01.json",
+                    "name": "Testimonial Block for Home 01"
+                }
+            ],
+            "filesize": 16387,
+            "dimensions": [
+                170,
+                170
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-african-businesswoman-smiling-confidently-ag-7V6WDAS"
+        },
+        {
+            "filename": "testimonial-person-02.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/testimonial-person-02.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block-for-home-02.json",
+                    "name": "Testimonial Block for Home 02"
+                }
+            ],
+            "filesize": 17534,
+            "dimensions": [
+                170,
+                170
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-african-businesswoman-standing-with--JSXT674"
+        },
+        {
+            "filename": "img-project-detail-05.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-project-detail-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/panel-block-for-header.json",
+                    "name": "Panel Block For Header"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 100669,
+            "dimensions": [
+                570,
+                420
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-project-detail-02.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-project-detail-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/panel-block-for-header.json",
+                    "name": "Panel Block For Header"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 155119,
+            "dimensions": [
+                570,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mockup-on-mint-background-PK9DHER"
+        },
+        {
+            "filename": "img-project-detail-04.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-project-detail-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/panel-block-for-header.json",
+                    "name": "Panel Block For Header"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 234840,
+            "dimensions": [
+                570,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-gray-textile-or-fabric-background-P7FLE3L"
+        },
+        {
+            "filename": "img-project-detail-03.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-project-detail-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/panel-block-for-header.json",
+                    "name": "Panel Block For Header"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 278453,
+            "dimensions": [
+                570,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mockup-for-black-gift-box-a-dark-background-with-g-69UCH9C"
+        },
+        {
+            "filename": "bg-footer.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-footer-600x120.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 16298,
+            "dimensions": [
+                1920,
+                385
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-home-01.png.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/banner-home-01.png-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 185642,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-home-02.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/banner-home-02-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 148342,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mockup-photo-frame-B3NAPK2.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/mockup-photo-frame-B3NAPK2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 162690,
+            "dimensions": [
+                470,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3NAPK2"
+        },
+        {
+            "filename": "person-img-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/person-img-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 50239,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AGPC4AW"
+        },
+        {
+            "filename": "icon-pannel.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-pannel.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 116,
+            "dimensions": [
+                17,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bearded-male-with-long-hair-on-grey-background-AGPC4AW.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bearded-male-with-long-hair-on-grey-background-AGPC4AW.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 264174,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AGPC4AW"
+        },
+        {
+            "filename": "image-02.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/image-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 136065,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blue-cupcake-celebration-card-mockup-PAMED98.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/blue-cupcake-celebration-card-mockup-PAMED98.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 126763,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAMED98"
+        },
+        {
+            "filename": "box-img-02.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/box-img-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 143445,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-up-of-gray-textile-or-fabric-background-P7FLE3L.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/close-up-of-gray-textile-or-fabric-background-P7FLE3L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 129976,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7FLE3L"
+        },
+        {
+            "filename": "plastic-water-bottle-with-yellow-cap-on-the-blue-b-83FXNWY.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/plastic-water-bottle-with-yellow-cap-on-the-blue-b-83FXNWY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 104426,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-83FXNWY"
+        },
+        {
+            "filename": "reusable-shopping-bags-on-wooden-background-zero-w-FT9DEHA.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/reusable-shopping-bags-on-wooden-background-zero-w-FT9DEHA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 139963,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FT9DEHA"
+        },
+        {
+            "filename": "lager-beer-settles-in-the-glass-with-a-white-cap-o-PKTT9VG.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/lager-beer-settles-in-the-glass-with-a-white-cap-o-PKTT9VG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                }
+            ],
+            "filesize": 131247,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKTT9VG"
+        },
+        {
+            "filename": "bg-video.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-video-600x248.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 157498,
+            "dimensions": [
+                1920,
+                792
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-play.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-play.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 711,
+            "dimensions": [
+                37,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bearded-male-with-long-hair-on-grey-background-AGPC4AW-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bearded-male-with-long-hair-on-grey-background-AGPC4AW-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 176988,
+            "dimensions": [
+                270,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AGPC4AW"
+        },
+        {
+            "filename": "person-layer.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/person-layer.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 45255,
+            "dimensions": [
+                270,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-businesswoman-standing-with-arms-cross-a-LDHABFW"
+        },
+        {
+            "filename": "smiling-young-african-businessman-standing-against-5XQK2J9.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/smiling-young-african-businessman-standing-against-5XQK2J9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 141376,
+            "dimensions": [
+                270,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5XQK2J9"
+        },
+        {
+            "filename": "smiling-young-african-businesswoman-standing-with-JSXT674.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/smiling-young-african-businesswoman-standing-with-JSXT674.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 135904,
+            "dimensions": [
+                270,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JSXT674"
+        },
+        {
+            "filename": "bg-col.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-col.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 7214,
+            "dimensions": [
+                545,
+                590
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-testimonial-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-testimonial-01-600x191.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 12140,
+            "dimensions": [
+                1170,
+                373
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-headphone.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-headphone.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 70694,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "minimal-workplace-background-UFLC266.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/minimal-workplace-background-UFLC266-600x273.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 150187,
+            "dimensions": [
+                770,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFLC266"
+        },
+        {
+            "filename": "swimming-goggles-and-cap-SXMA95Z.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/swimming-goggles-and-cap-SXMA95Z.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 139881,
+            "dimensions": [
+                345,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SXMA95Z"
+        },
+        {
+            "filename": "reusable-textile-bag-on-gray-background-zero-waste-VH35FCC.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/reusable-textile-bag-on-gray-background-zero-waste-VH35FCC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 98704,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VH35FCC"
+        },
+        {
+            "filename": "easter-composition-on-grey-concrete-backgrount-Z8KE8RP.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/easter-composition-on-grey-concrete-backgrount-Z8KE8RP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 105346,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z8KE8RP"
+        },
+        {
+            "filename": "reusable-shopping-bags-on-wooden-background-zero-w-FT9DEHA-01.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/reusable-shopping-bags-on-wooden-background-zero-w-FT9DEHA-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 150184,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FT9DEHA"
+        },
+        {
+            "filename": "box-img-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/box-img-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 219373,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mockup-on-mint-background-PK9DHER.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/mockup-on-mint-background-PK9DHER.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 155916,
+            "dimensions": [
+                370,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK9DHER"
+        },
+        {
+            "filename": "mockup-on-yellow-background-PHBNTLK.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/mockup-on-yellow-background-PHBNTLK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 152849,
+            "dimensions": [
+                345,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHBNTLK"
+        },
+        {
+            "filename": "bg-video-02.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-video-02-600x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 53621,
+            "dimensions": [
+                1920,
+                1145
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-silder-parto-home2.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-silder-parto-home2-600x191.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 12778,
+            "dimensions": [
+                1170,
+                373
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "envato-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/envato-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1663,
+            "dimensions": [
+                122,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "envato-02.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/envato-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1713,
+            "dimensions": [
+                122,
+                23
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-col-02.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-col-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 7370,
+            "dimensions": [
+                545,
+                590
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-inner-page.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/bg-inner-page-600x188.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                },
+                {
+                    "source": "templates\/our-projects.json",
+                    "name": "Our Projects"
+                },
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 171047,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-01.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                }
+            ],
+            "filesize": 1454,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-02.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                }
+            ],
+            "filesize": 1613,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-03.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                }
+            ],
+            "filesize": 957,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-04.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/icon-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/services-style.json",
+                    "name": "Services Style"
+                }
+            ],
+            "filesize": 2118,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield-1.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/shield-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 2010,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "wallet2.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/wallet2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 1394,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "target2.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/target2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 2830,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "compass2.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/compass2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 2634,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-1.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/team-1.png",
+            "templates": [
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 395922,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team-2.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/team-2.png",
+            "templates": [
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 327742,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team-3.png",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/team-3.png",
+            "templates": [
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 332737,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-grid-02.json",
+                    "name": "Project Grid 02"
+                }
+            ],
+            "filesize": 119101,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "img-project-detail-06.jpg",
+            "thumbnail_url": "http:\/\/themesflat.com\/wordpress\/partokit\/wp-content\/uploads\/2020\/10\/img-project-detail-06-600x272.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 242765,
+            "dimensions": [
+                1170,
+                530
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,1077 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Hagge",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.monstr.co",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.png",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Project 1",
+            "screenshot": "screenshots\/single-project-1.png",
+            "source": "templates\/single-project-1.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/single-project-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hagge - Theme Builder \u2013 Footer (Pro)",
+            "screenshot": "screenshots\/hagge-theme-builder-footer-pro-.png",
+            "source": "templates\/hagge-theme-builder-footer-pro-.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/?elementor_library=theme-builder-footer-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.png",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.png",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FQAs 1",
+            "screenshot": "screenshots\/fqas-1.png",
+            "source": "templates\/fqas-1.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/fqas-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.png",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.png",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Packages",
+            "screenshot": "screenshots\/pricing-packages.png",
+            "source": "templates\/pricing-packages.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/pricing-packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FQAs 2",
+            "screenshot": "screenshots\/fqas-2.png",
+            "source": "templates\/fqas-2.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/fqas-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Project 2",
+            "screenshot": "screenshots\/single-project-2.png",
+            "source": "templates\/single-project-2.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/template-kit\/single-project-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hagge - Theme Builder \u2013 Header (Pro)",
+            "screenshot": "screenshots\/hagge-theme-builder-header-pro-.png",
+            "source": "templates\/hagge-theme-builder-header-pro-.json",
+            "preview_url": "https:\/\/template-kit.monstr.co\/hagge\/?elementor_library=theme-builder-header-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.12",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "paper-box-packaging-mockup-01.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/paper-box-packaging-mockup-01-600x394.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-project-1.json",
+                    "name": "Single Project 1"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 32836,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/paper-box-packaging-mockups-P6D9CBG"
+        },
+        {
+            "filename": "Magazine_Cover_and_Spread.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/Magazine_Cover_and_Spread-600x394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 23472,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/book-magazine-cover-and-spread-mockups-FFCY4BW"
+        },
+        {
+            "filename": "Candle__Box.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/Candle__Box-600x394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 43704,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/candle-box-mock-up-WBF97W"
+        },
+        {
+            "filename": "book_cover.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/book_cover-600x394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 34677,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/book-cover-mockups-PWT5RYQ"
+        },
+        {
+            "filename": "Cosmetic_Bottle.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/Cosmetic_Bottle-600x394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 27382,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cosmetic-bottle-packaging-mockups-2JBTA89"
+        },
+        {
+            "filename": "Dropper_Bottle.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/Dropper_Bottle-600x394.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 20857,
+            "dimensions": [
+                1402,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dropper-bottle-and-box-mockups-set-H2YXJWP"
+        },
+        {
+            "filename": "paper-box-packaging-mockup-02.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/paper-box-packaging-mockup-02-600x394.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project-1.json",
+                    "name": "Single Project 1"
+                },
+                {
+                    "source": "templates\/single-project-2.json",
+                    "name": "Single Project 2"
+                }
+            ],
+            "filesize": 37057,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/paper-box-packaging-mockups-P6D9CBG"
+        },
+        {
+            "filename": "paper-box-packaging-mockup-03.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/paper-box-packaging-mockup-03-600x394.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project-1.json",
+                    "name": "Single Project 1"
+                },
+                {
+                    "source": "templates\/single-project-2.json",
+                    "name": "Single Project 2"
+                }
+            ],
+            "filesize": 31281,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/paper-box-packaging-mockups-P6D9CBG"
+        },
+        {
+            "filename": "paper-box-packaging-mockup-04.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/paper-box-packaging-mockup-04-600x394.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project-1.json",
+                    "name": "Single Project 1"
+                },
+                {
+                    "source": "templates\/single-project-2.json",
+                    "name": "Single Project 2"
+                }
+            ],
+            "filesize": 35184,
+            "dimensions": [
+                1400,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/paper-box-packaging-mockups-P6D9CBG"
+        },
+        {
+            "filename": "main-logo.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/main-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/hagge-theme-builder-footer-pro-.json",
+                    "name": "Hagge - Theme Builder \u2013 Footer (Pro)"
+                },
+                {
+                    "source": "templates\/hagge-theme-builder-header-pro-.json",
+                    "name": "Hagge - Theme Builder \u2013 Header (Pro)"
+                }
+            ],
+            "filesize": 17741,
+            "dimensions": [
+                371,
+                138
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/main-logo.png"
+        },
+        {
+            "filename": "brainstorming-team-working-office-colleagues-concept.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/brainstorming-team-working-office-colleagues-concept-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 565117,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCD33AX"
+        },
+        {
+            "filename": "156.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/156.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6186,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-expanded-CYWVPQ"
+        },
+        {
+            "filename": "43.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/43.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6421,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-expanded-CYWVPQ"
+        },
+        {
+            "filename": "102.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/102.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 5672,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-expanded-CYWVPQ"
+        },
+        {
+            "filename": "166.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/166.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 5158,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/line-icons-expanded-CYWVPQ"
+        },
+        {
+            "filename": "fun.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/fun-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 451723,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4KE5NP9"
+        },
+        {
+            "filename": "client_03.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/client_03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6907,
+            "dimensions": [
+                285,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "client_05.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/client_05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3068,
+            "dimensions": [
+                286,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "client_01.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/client_01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6344,
+            "dimensions": [
+                285,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "client_04.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/client_04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 7103,
+            "dimensions": [
+                285,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "client_02.png",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/client_02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 5469,
+            "dimensions": [
+                285,
+                165
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/120-minimalist-logos-69MMK9"
+        },
+        {
+            "filename": "young-team-works-with-documents-and-discuss-the-project-in-a-stylish-modern-office-work-process-in.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/young-team-works-with-documents-and-discuss-the-project-in-a-stylish-modern-office-work-process-in-600x365.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 298675,
+            "dimensions": [
+                2000,
+                1217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZX8S3QD"
+        },
+        {
+            "filename": "young-man-smiling-with-sunglasses.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/young-man-smiling-with-sunglasses-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 840558,
+            "dimensions": [
+                2442,
+                2442
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45RBLMZ"
+        },
+        {
+            "filename": "serious-determined-young-business-man.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/serious-determined-young-business-man-600x896.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 327394,
+            "dimensions": [
+                1340,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L48UZD3"
+        },
+        {
+            "filename": "head-and-shoulders-portrait-of-young-businesswoman-in-office.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/head-and-shoulders-portrait-of-young-businesswoman-in-office-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 276329,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7V9H45"
+        },
+        {
+            "filename": "portrait-of-modern-businessman.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/portrait-of-modern-businessman-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 278151,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9CVEAYH"
+        },
+        {
+            "filename": "portrait-of-beautiful-business-woman-wearing-glasses.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/portrait-of-beautiful-business-woman-wearing-glasses-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 302616,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW325LL"
+        },
+        {
+            "filename": "confident-businessman-standing-with-arms-folded.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/confident-businessman-standing-with-arms-folded-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 302684,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9K2Z5C"
+        },
+        {
+            "filename": "portrait-of-a-black-businesswoman-in-her-office-.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/portrait-of-a-black-businesswoman-in-her-office--600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 513234,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LGHBZTW"
+        },
+        {
+            "filename": "senior-white-businessman-smiling-to-camera-vertical.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/senior-white-businessman-smiling-to-camera-vertical-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 443263,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRBNJVW"
+        },
+        {
+            "filename": "businessman-standing-in-the-modern-office.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/businessman-standing-in-the-modern-office-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 217586,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WGX5EPZ"
+        },
+        {
+            "filename": "couple-of-colleagues-discussing-work-project.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/couple-of-colleagues-discussing-work-project-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 275252,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VDTP3C8"
+        },
+        {
+            "filename": "two-colleagues-discussing-architectural-project.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/two-colleagues-discussing-architectural-project-600x387.jpg",
+            "templates": [
+                {
+                    "source": "templates\/fqas-1.json",
+                    "name": "FQAs 1"
+                },
+                {
+                    "source": "templates\/fqas-2.json",
+                    "name": "FQAs 2"
+                }
+            ],
+            "filesize": 306239,
+            "dimensions": [
+                2000,
+                1290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DQT87NA"
+        },
+        {
+            "filename": "customer-service-operator.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/customer-service-operator-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 304043,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G7LFKNM"
+        },
+        {
+            "filename": "teamwork-power-successful-meeting-workplace-concept.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/teamwork-power-successful-meeting-workplace-concept-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 501095,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJ3ETND"
+        },
+        {
+            "filename": "portrait-of-creative-team-talking-in-office-on-meeting.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/portrait-of-creative-team-talking-in-office-on-meeting-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 340374,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W58372J"
+        },
+        {
+            "filename": "businessman-calculates-the-costs-incurred-or-salary.jpg",
+            "thumbnail_url": "https:\/\/template-kit.monstr.co\/hagge\/wp-content\/uploads\/sites\/2\/2020\/10\/businessman-calculates-the-costs-incurred-or-salary-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-packages.json",
+                    "name": "Pricing Packages"
+                }
+            ],
+            "filesize": 260901,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3XJZV6F"
+        }
+    ]
+}

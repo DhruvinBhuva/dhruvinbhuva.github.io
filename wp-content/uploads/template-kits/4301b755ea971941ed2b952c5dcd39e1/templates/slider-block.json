@@ -1,0 +1,220 @@
+{
+    "version": "0.4",
+    "title": "Slider Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-hero",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "12f3240f",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider",
+                "padding": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "8f4b0f3",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "293d9ab0",
+                            "settings": {
+                                "premium_dual_header_first_header_text": "Porta",
+                                "premium_dual_header_second_header_text": "",
+                                "first_header_typography_typography": "custom",
+                                "first_header_typography_font_size": {
+                                    "unit": "vw",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "first_header_typography_font_size_mobile": {
+                                    "unit": "vw",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "first_header_typography_text_transform": "uppercase",
+                                "_z_index": 0,
+                                "_animation": "fadeInRight",
+                                "animation_duration": "slow",
+                                "_animation_delay": 1200,
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": -14,
+                                    "sizes": []
+                                },
+                                "_offset_x_mobile": {
+                                    "unit": "%",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "%",
+                                    "size": 44,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-addon-dual-header",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "754166a0",
+                            "settings": {
+                                "layout": "full_width",
+                                "overflow": "hidden"
+                            },
+                            "elements": [
+                                {
+                                    "id": "207a8a4f",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3bd219e2",
+                                            "settings": {
+                                                "premium_dual_header_first_header_text": "Porta",
+                                                "premium_dual_header_second_header_text": "",
+                                                "first_header_typography_typography": "custom",
+                                                "first_header_typography_font_size": {
+                                                    "unit": "vw",
+                                                    "size": 26,
+                                                    "sizes": []
+                                                },
+                                                "first_header_typography_text_transform": "uppercase",
+                                                "premium_dual_header_first_back_clip": "clipped",
+                                                "premium_dual_header_first_stroke": "yes",
+                                                "premium_dual_header_first_stroke_text_color": "#FFFFFF",
+                                                "premium_dual_header_first_stroke_color": "rgba(2, 1, 1, 0)",
+                                                "premium_dual_header_first_stroke_width": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInRight",
+                                                "animation_duration": "slow",
+                                                "_animation_delay": 1200,
+                                                "_position": "absolute",
+                                                "_offset_x": {
+                                                    "unit": "%",
+                                                    "size": -14,
+                                                    "sizes": []
+                                                },
+                                                "_offset_x_mobile": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_offset_y": {
+                                                    "unit": "%",
+                                                    "size": 44,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "premium-addon-dual-header",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2404ea38",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/demo.detheme.com\/porta\/wp-content\/uploads\/sites\/128\/2020\/04\/beautiful-girl-in-black-hat-9XKGYNZ-1.jpg",
+                                                    "id": 45
+                                                },
+                                                "image_size": "full",
+                                                "align": "center",
+                                                "_margin": {
+                                                    "unit": "%",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_padding": {
+                                                    "unit": "%",
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": "",
+                                                    "isLinked": true
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

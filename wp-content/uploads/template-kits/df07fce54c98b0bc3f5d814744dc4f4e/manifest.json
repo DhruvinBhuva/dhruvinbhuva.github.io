@@ -1,0 +1,429 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Miso - Minimal Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.png",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Block",
+            "screenshot": "screenshots\/footer-block.png",
+            "source": "templates\/footer-block.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/footer-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Block",
+            "screenshot": "screenshots\/header-block.png",
+            "source": "templates\/header-block.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/header-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/rabona-dev.xyz\/miso\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.3",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.12",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.9.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Master Addons for Elementor",
+            "version": "1.5.3",
+            "file": "master-addons\/master-addons.php",
+            "author": "Jewel Theme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-white.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/bg-white-600x480.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5059,
+            "dimensions": [
+                1000,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "introo.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/introo-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 103078,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/archival-document-files-ring-binder-folders-V2GMX5W"
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/placeholder-600x404.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 16731,
+            "dimensions": [
+                1140,
+                768
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/about-600x272.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 302264,
+            "dimensions": [
+                1200,
+                543
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-business-office-ZAL68PW"
+        },
+        {
+            "filename": "image5264.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/image5264-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 261279,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-business-card-templ"
+        },
+        {
+            "filename": "portfolio4-3.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio4-3-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49574,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/realistic-magazine-mockups-24HPNX9"
+        },
+        {
+            "filename": "portfolio2-3.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio2-3-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67686,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/multi-devices-responsive-web-mockups-pack-AT5YD6"
+        },
+        {
+            "filename": "portfolio3-3.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio3-3-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 50031,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3-awesome-coffee-mug-mockups-B96927"
+        },
+        {
+            "filename": "portfolio1-2.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio1-2-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 58454,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/galaxy-z-flip-mockup-folding-smartphone-QEAWKNP"
+        },
+        {
+            "filename": "portfolio6-3.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio6-3-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 47802,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/round-neck-t-shirt-mockups-2XLAT3J"
+        },
+        {
+            "filename": "portfolio5-3.png",
+            "thumbnail_url": "http:\/\/rabona-dev.xyz\/miso\/wp-content\/uploads\/2020\/10\/portfolio5-3-600x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55353,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tablet-business-card-mockup-TZAEKZB"
+        }
+    ]
+}
