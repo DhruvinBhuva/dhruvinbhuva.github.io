@@ -1,8 +1,0 @@
-.wc-block-components-filter-reset-button {
-	@include filter-link-button();
-	cursor: pointer;
-
-	&[disabled] {
-		cursor: not-allowed;
-	}
-}
